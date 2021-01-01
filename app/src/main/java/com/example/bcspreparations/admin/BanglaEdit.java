@@ -46,6 +46,8 @@ public class BanglaEdit extends AppCompatActivity {
                     GetPush e = d.getValue(GetPush.class);
                      bangla.add(e);
                 }
+
+
                 banglaRef.getDatabase();
                 layoutManager=new LinearLayoutManager(context);
                 recyclerView.setLayoutManager(layoutManager);
