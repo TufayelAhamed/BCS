@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".subDiscription.SubjectDescriptionBangla">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="বিষয়ভিত্তিক বর্ণনাঃ"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="বাংলা ভাষা:"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:text="১।বাংলা ভাষার মৌলিক রুপ- ২টি\n২।”সাধুভাষা” পরিভাষাটি প্রথম ব্যবহার করেন- রাজা রাম মোহন রায়\n৩.কোনটি চলিত ভাষার বৈশিষ্ট্য?- প্রমিত উচ্চারণ
+\n৪.সাধুভাষা ও চলিত ভাষার পার্থক্য- সর্বনাম ও ক্রিয়াপদে\n৫.ব্যাকরণের প্রধান কাজ- ভাষার বিশ্লেষণ
+\n৬.সন্ধি ব্যাকরণের কোন অংশের আলোচ্য বিষয়- ধ্বনিতত্ত্ব
+\n৭.ব্যাকরণের “সমাস/কারক” সমন্ধে আলোচনা করা হয়- রুপতত্ত্বে\n
+৮.ব্যাকরণের কোন অংশে “বাগধারা/
+বিরামচিহ্ন” আলোচনা করা হয়?- বাক্যতত্ত্বে\n
+৯.পাণিনি কে ছিলেন?- বৈয়াকরণিক\n
+১০.বাংলা ভাষার প্রথম ব্যাকরণ রচনা করেন?- ম্যানুয়েল দ্য আসসুম্পসাঁও\n১১.গৌড়ীয় ব্যাকরণ রচনা করেন- রাজা রামমোহন রায়\n
+১২.”ভাষা প্রকাশ বাঙ্গালা ব্যাকরণ” কে রচনা করেন- সুনীতিকুমার চট্টোপাধ্যায়\n
+১৩.ভাষার ক্ষুদ্রতম একক- ধ্বনি\n
+১৪.মাত্রাহীন বর্ণ- ১০টি\n
+১৫.অর্ধমাত্রার বর্ণ- ৮টি\n
+১৬.মৌলিক স্বরধ্বনি- ৭টি\n
+১৭.যৌগিক স্বরধ্বনি- ২টি (ঐ,ঔ)\n
+১৮.হ্রস্বস্বর- ৪টি\n
+১৯.দীর্ঘস্বর-৭টি\n২০.ক থেকে ম পর্যন্ত- স্পর্শ ধ্বনি\n
+২১.ড় এবং ঢ় ধ্বনি দুটি কী ধ্বনি?- তাড়নজাত\n২২.কিছু সন্ধিবিচ্ছেদ- রত্ন+আকর=রত্নাকর,
+পরি+ঈক্ষা=পরীক্ষা, রবি+ইন্দ্র=রবীন্দ্র, জন+এক=জনৈক, ক্ষুধা+ঋত=ক্ষুধার্ত, যদি+অপি=যদ্যপি,
+পরি+আলোচনা=পর্যালোচনা, সু+আগত=স্বাগত, গো+এষণা=গবেষণা,
+নৌ+ইক=নাবিক, লো+অন=লবণ, গৈ+য়ক= গায়ক, বাক+আড়ম্বর=বাগাড়ম্বর,
+উৎ+শ্বাস=উচ্ছ্বাস, পদ+হতি=পদ্ধতি, ষট+ঋতু=ষড়ঋতু, সম+বাদ=সংবাদ, সম+বিধান=সংবিধান,
+নির+আময়=নিরাময়, বৃষ+তি=বৃষ্টি, ততঃ+ধিক=ততোধিক, তপ+বন=তপোবন,
+দুঃ+যোগ=দুর্যোগ, দিব+লোক=দ্যুলোক, বন+পতি=বনস্পতি, অহ+অহ=অহরহ
+\n২৩.সমাস শব্দের অর্থ- সংক্ষেপণ\n
+২৪.যে পদে সমাস হয়, তাকে বলে- সমস্যমান পদ\n
+২৫.সমাসের রীতি এসেছে- সংস্কৃত ভাষা থেকে\n
+২৬. সমাস কত প্রকার?- ৬\n২৭.সমাস নির্ণয় করুন: দম্পতি (দ্বন্ধ),
+কঁচা-মিঠা (কর্মধারয়), সিংহাসন (মধ্যপদলোপী কর্মধারয়), চাঁদমুখ (উপমেয়),
+শতাব্দী (দিগু), লাঠালাঠি (ব্যতিহার বহুব্রীহি), ছায়াশীতল (তৎপুরুষ), উপকূল (অব্যয়ীভাব)\n
+২৮. যে সমাসে পূর্বপদের বিভক্তি লোপ পায় না, তাকে বলে- অলুক সমাস\n
+২৯.আমাকে যেতে হবে- “আমাকে” কর্তৃকারক ২য়া\n
+৩০‌‌.দশে মিলে করি কাজ- “দশে” কর্তায় ৭মী\n
+৩১.ডাক্তার ডাক- “ডাক্তার” কর্মে শুন্য\n
+৩২.গাড়ী স্টেশন ছাড়ল- অপাদানে শুন্য\n" />
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="সমার্থক শব্দ:"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="10dp"
+                android:text=" অগ্নি ➟ অনল, পাবক, আগুন, দহন, সর্বভূক, শিখা, হুতাশন, বহ্নি, বৈশ্বানর, কৃশানু, বিভাবসু, সর্বশুচি\n=> অন্ধকার ➟ আঁধার, তমঃ, তমিস্রা, তিমির, আন্ধার, তমস্র, তম\n
+=> অখন্ড ➟ সম্পূর্ণ, আস্ত, গোটা, অক্ষত, পূর্ণ, সমগ্র, সমাগ্রিক।\n
+=> অবকাশ ➟ সময়, ফূসরত, অবসর, ছুটি, সুযোগ, বিরাম।\n
+=> অক্লান্ত ➟ ক্লান্তিহীন, শ্রান্তিহীন, অনলস, নিরলস, অদম্য, উদ্যমী, পরিশ্রমী, অশ্রান্ত।\n
+=> অপূর্ব ➟ অদ্ভুত, আশ্চর্য, অলৌকিক, অপরূপ, অভিনব, বিস্ময়কর, আজব, তাজ্জব,
+ চমকপ্রদ, অবাক করা, মনোরম" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="বাগধারা:"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="5dp"
+                android:layout_marginStart="5dp"
+                android:text="অকাল কুষ্মাণ্ড – অপদার্থ।\n
+অকালের বাদলা -অপ্রত্যাশিত বাধা।\n
+অক্ষরে অক্ষরে -সম্পূর্ণভাবে।\n
+ঘটিরাম – অপদার্থ\n
+চক্ষুদান করা – চুরি করা।\n
+চডুই পাখির প্রাণ – ক্ষীণজীবী লোক।\n
+চতুর্ভুজ হওয়া – উৎফুল্ল হওয়া।\n
+চাঁদের হাট – ধনেজনে পরিপূর্ণ সংসার।\n
+চাঁদ-কপালে – ভাগ্যবান।" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="বাংলা সাহিত্য:"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="১.বাংলা সাহিত্যের প্রথম স্বার্থক নাট্যকার- মাইকেল মধুসূদন দত্ত
+\n২.বাংলাভাষায় প্রথম সনেট রচয়িতা - মাইকেল মধুসুদন দত্ত।
+\n৩.বাংলা সাহিত্যের প্রথম মুসলমান নাট্যকার -মীর মোশাররফ হোসেন
+\n৪.বাংলা সাহিত্যের প্রথম গীত কবি- বিহারীলাল চক্রবর্তী।
+\n৫.বাংলা ভাষার আদি নিদর্শন চর্যাপদ আবিস্কৃত হয় কত সালে- ১৯০৭
+\n৬.“আমার ভাইয়ের রক্তে রাঙানো একুশে ফেব্রুয়ারি ’’ গানটির প্রথম সুরকার -আব্দুল লতিফ
+\n৭. ভানুসিংহ ঠাকুর- কার ছদ্মনাম- রবীন্দ্রনাথ ঠাকুরের
+\n৮. বাংলা সাহিত্যের অন্ধকার যুগের মেয়াদকাল— ১২০১-১৩৫০
+\n৯. মধ্যযুগের কবি নন - জয়নন্দী
+\n১০. ফোর্ট উইলিয়াম কলেজের অধ্যক্ষ ছিলেন- উইলিয়াম কেরি
+\n১১. বাংলা সাহিত্যের জনক হিসেবে কার নাম চিরস্মরণীয়-ঈশ্বরচন্দ্র বিদ্যাসাগর
+\n১২. বাংলাদেশের জাতীয় সংসদ কয় কক্ষ বিশিষ্ট- এক কক্ষ
+\n১৩. কুলীন কুল সর্বস্ব নাটকটি কার রচনা-রামনারায়ণ তর্করত্ন
+\n১৪. নীলদর্পণ নাটকটির বিষয়বস্তু ক-নীলকরদের অত্যাচার
+\n১৫. বাংলা সাহিত্যে ‘সাহিত্য সম্রাট বলা হয় -বঙ্কিমচন্দ্রকে।
+\n১৬. ময়মনসিংহ গীতিকা সম্পাদনা করেন -দীনেশচন্দ্র সেন।
+\n১৭.ছাড়পত্র কাব্য- সুকান্ত ভট্টাচার্য
+\n১৮।পঞ্চতন্ত্র গ্রন্থঃ সৈয়দ মুজতবা আলী
+\n১৯.নজরুলের প্রথম উপন্যাসঃ বাঁধনহারা
+\n২০.মেঘনাদ বধ কাব্যে সর্গঃ ৯টি
+\n২১.“পদ্মাবতী ’’  রচনা করেন -মহাকবি আলাওল।
+\n২২.“পদ্মাবতী ’’ কোন জাতীয় রচনা-ঐতিহাসিক প্রণয় উপাখ্যান।
+\n২৩।বত্রিশ সিংহাসন’ গ্রন্থের রচয়িতা -মৃত্যুঞ্জয় বিদ্যালঙ্কার।
+\n২৪.‘বেদান্ত চন্দ্রিকা’ ও ‘প্রবোধ চন্দ্রিকা’ গ্রন্থ দুটির রচয়িতা -মৃত্যুঞ্জয় বিদ্যালঙ্কার।
+\n২৫.শায়ের কারা-পুঁথি সাহিত্যের রচয়িতার শায়ের বলা হয়।
+\n২৬.পুঁথি সাহিত্যের প্রথম সার্থক কবির রচয়িতা কে -ফকির গরীবুল্লাহ।"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".answer.MathAnswer">
+    <TextView
+        android:layout_margin="20dp"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:text="উত্তরঃ"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp">
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:textStyle="normal"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="1. উত্তরঃ ৬ সমকোণ\n2. উত্তরঃ ৪\n3. উত্তরঃ ৪২ সেন্টিমিটার\n4. উত্তরঃ ১.৯২\n5. উত্তরঃ ৮\n6. উত্তরঃ ৫৫\n7. উত্তরঃ (1,1)\n8. উত্তরঃ x+y\n9. উত্তরঃ ৫০\n10. উত্তরঃ ১৫\n11. উত্তরঃ ৫৫\n12. উত্তরঃ ৭০\n13. উত্তরঃ ২০০\n14. উত্তরঃ ৩৬\n15. উত্তরঃ ২১৮৭"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:textStyle="normal"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="16. উত্তরঃ ৭০\n17. উত্তরঃ ৫৯\n18. উত্তরঃ ৩৪১\n19. উত্তরঃ ১২\n20. উত্তরঃ সম্পূরক কোণ\n21.উত্তরঃ ৫০\n22. উত্তরঃ ব্যাস\n23. উত্তরঃ 3:4:5\n24. উত্তরঃ ৮৮\n25. উত্তরঃ ১০৭"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

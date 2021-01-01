@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">BCSPreparations</string>
+    <string name="qus1">১।বাংলা কৃত-প্রত্যয় সাধিত শব্দ কোনটি?\nক.চামার\nখ.ধারালো\nগ.মোড়ক\nঘ.পোষ্টায়\nউত্তরঃ মোড়ক</string>
+    <string name="englishq1">1. Imbibe---\n(a) to learn, \n(b) to rise,\n(c) to drink,\n(d) to acquire\n\n
+        2. Stagflation--- \n(a) Controlled prices,\n(b) Economic slowdown,\n(c) A disintegrated government,\n (d) Cultural dullness.\n\n
+        3. Scuttle---\n(a) Abandon, \n(b) Beweak,\n(c) Pile up,\n(d) Gossip.\n\n
+        4. Stanch---(a) To reinforce,\n(b) Rotten,\n(c) Smooth out\n(d) Put an end to.\n\n
+        5. Choose the correct sentence:\n(a) He raced quickly down the street.\n(b) He raced down the street.\n(c) He raced down quickly to the street.\n(d) He raced down fast to the street.\n\n
+        6. Which of the following is a correct sentence:\n(a) He earns hundred taka a day.\n (b) He earns a hundred taka a day.\n(c) He earns one hundred taka a day.\n\n
+        7.The queen is said ___ Australia next year.\n (a) to have visited,\n(b) to visit,\n(c) to be visiting,\n(d) that she will visit.\n\n
+        8. Ephemeral : Eternal ---\n(a) Dexterous : Skillful\n(b) Sinister : Threatening\n(c) Vicarious : Actual\n(d) Clandestine : Hidden\n\n
+        9. Credulous : Skeptical ---\n(a) placate : irritate\n(b) cogent : brilliant\n(c) proscale :prohibit\n\n
+        10. Into the ___ of death rode the six hundred.\n(a) road,\n(b) tunnel,\n(c) valley,\n(d) city.
+    </string>
+    <string name="subjectdescriptionenglish1"> খুব সহজে Noun, Adjective, Verb and Adverb\n
+চেনার উপায়\n
+Noun : শব্দের শেষে নিম্নলিখিত Suffix \n
+গুলো থেকে Noun চেনা যায়:→ \n
+(-tion, -ment, -ness, -hood, -dom, -ship, -th, -ity, \n
+-gy, -phy, -my, -ure, -cy, -tude, -mony, -nce, - \n
+age, -er, -or, -sion, -ist, -ee, -ism). \n
+Adjective : শব্দের শেষে নিম্নলিখিত \n
+Suffix গুলো থেকে Adjective চেনা যায়:→ \n
+(-ble, -ish, -less, -ary, -ive, -ful, -ar, -al, -ate, -ic, \n
+-sque, -id, -ile, -ry, -line, -ous/ose, -lent, -an). \n \n
+        Verb : শব্দের শেষে নিম্নলিখিত Suffix \n
+গুলো থেকে Verb চেনা যায়:→ \n
+(-ate, -en, -fy, -esce, -ise, -ize, -ish). \n \n
+ Adverb : শব্দের শেষে নিম্নলিখিত Suffix \n
+গুলো থেকে Adverb চেনা যায়:→ \n
+(-wise, -ways, -ly, -ward) \n \n</string>
+    <string name="subjectdescriptionenglish2">1.Die of (কোন রোগে মারা যাওয়া) He died of cholera.\n
+2. Die from (কোন কারণে মারা যাওয়া) He died from overeating.\n
+3. Die by (আকষ্মিক বা ইচ্ছাকৃত ভাবে মারা যাওয়া) He died by suicide.\n
+4. Die for (আত্নত্যগ করা) We are ready to die for our country.\n
+5.Die out(বিলীন হওয়া ) Morality is dying out gradually.\n
+6.Die away(দুর্বল হওয়া) The man died away for hunger.\n
+7. Made in (দেশের দ্বারা তৈরি) This mobile is made in China.\n
+8. Made by (কোন কোম্পানির দারা তৈরি) This mobile is made by NOKIA.\n
+9. Made of (কোন উপাদান দ্বারা তৈরি) This box is made of plastic\n
+10. Consist of (গঠিত) The committee consists of ten members.\n
+11. Consist in (নিহিত) True happiness consists in contentment.\n
+12.Deal in(ব্যবসা করা) I deal in rice.\n
+13.Deal with(ব্যবহার করা ) You should deal with cordially.\n</string>
+    <string name="subjectdescriptionenglish3">1. Abate-soothe,relieve,mitigate,reduce,subside.\n
+3.Abortive-Unsuccessful,Bungled\n.
+3. Adequate:Competent,passable,sufficient.\n
+4. Fertile:Effective,fructuous,prolific,productive,fruitful,pregnant.\n
+5. Generate: produce,make,create,build,induce.\n
+6. Hostile:Adverse,ambivalent,repugnant,enemy,rival,competing.\n
+7. Illusive: Imaginary,fictive,mythical,enchanted,spurious,deceitful.\n
+8. Interrupt: Isolate,interfere,separate,differ.\n
+9. Malice-spite,rancor,malevolence. \n
+</string>
+    <string name="subjectdescriptionenglish4">1. Debase: elevate,enhance, improve.\n
+2. Autocrat: Democrat,communist.\n
+3. Innovate: Destroy,end,finish,ignore,stop.\n
+4. Lucid: Ambiguous,obscure,vague.\n
+5. Magnify:Reduce,Belittle,diminish.\n
+6. Pensive-Negligent,Uncaring,ignorant,shallow.\n
+7. Repeal: Enact,approval,arrange,support,ratify.\n
+</string>
+    <string name="subjectdescriptionenglish5">1. The father of modern English poetry – GeoffreyChaucer\n
+2.  Shakespeare is known mostly for his- Play\n
+3.  The English “Epic Poet”- John Milton\n
+4.  The first English dictionary writer- Samuel Johnson\n
+5. The most famous satirist in English literature -Jonathan Swift\n
+6. The father of English novel – Henry Fielding\n
+7. The poet of nature – William Wordsworth\n
+8. Both poet and painter- William Blake\n
+9. Poet of Sensuousness – John Keats\n
+11. The poet of beauty – John Keats\n
+12.The Rebel poet in English literature – Lord Byron\n
+13. The greatest modern English dramatist – G.B.Shaw\n
+14.The father of modern English literature – G.B.Shaw\n
+15. The first English novel – Pamela\n
+16. The first translator of the Bible into English – John Wycliff\n
+17. The poet of poets – Edmund Spenser.\n\n
+        </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

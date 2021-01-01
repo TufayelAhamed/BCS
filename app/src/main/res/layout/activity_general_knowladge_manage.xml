@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".admin.GeneralKnowladgeManage">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+            <EditText
+                android:id="@+id/questionNameGK"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Question"/>
+            <EditText
+                android:id="@+id/firstOptionGK"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="First Option" />
+            <EditText
+                android:id="@+id/secondOptionGK"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Second Option" />
+            <EditText
+                android:id="@+id/thirdOptionGK"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Third Option" />
+            <EditText
+                android:id="@+id/fourthOptionGK"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Fourth Option" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select Answer"
+                android:textAlignment="center"
+                android:textSize="15sp"
+                android:background="#F3F0E5"/>
+            <RadioGroup
+                android:id="@+id/gkAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/gkRadioA"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="A"/>
+                <RadioButton
+                    android:id="@+id/gkRadioB"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="B"/>
+                <RadioButton
+                    android:id="@+id/gkRadioC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="C"/>
+                <RadioButton
+                    android:id="@+id/gkRadioD"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="D"/>
+            </RadioGroup>
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="70dp"
+                android:background="@drawable/button"
+                android:textColor="#ffffff"
+                android:textSize="40sp"
+                android:layout_gravity="center"
+                android:text="save"
+                android:onClick="SaveBTN"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

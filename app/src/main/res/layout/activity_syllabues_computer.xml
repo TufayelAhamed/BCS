@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".syllabuses.SyllabuesComputer">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সিলেবাসঃ"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="কম্পিউটার ও তথ্য প্রযুক্তি"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                />
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="পূর্ণমানঃ১৫\nকম্পিউটারঃ১০"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#000000"
+            android:layout_margin="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="40dp"
+            />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="1. কম্পিউটার পেরিফেরালস ( Computer Peripherals): কি-বোর্ড(Keyboard), মাউস(Mouse), ওসিআর(OCR) ইত্যাদি;\n\n
+2. কম্পিউটারের অঙ্গসংগঠন(Computer Architecture): সিপিইউ(CPU), হার্ড ডিস্ক(Hard Disk), এএলইউ(ALU) ইত্যাদি;\n\n
+3. কম্পিউটারের পারঙ্গমতা(Computer Performance);\n\n
+4. দৈনন্দিন জীবনে কম্পিউটার(Computer in Practical Fields): কৃষি, যোগাযোগ, শিক্ষা, স্বাস্থ্য, খেলাধুলা ইত্যাদি।\n"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="5. কম্পিউটারের নম্বর ব্যবস্থা(Number Systems of Computer):\n\n
+6. অপারেটিং সিস্টেমস (Operating Systems);\n\n7. এমবেডেড কম্পিউটার(Embedded Computer);\n\n
+8. কম্পিউটারের ইতিহাস (History of Computer);\n\n9. কম্পিউটারের প্রকারভেদ(Types of Computer);\n\n
+10. কম্পিউটার প্রোগ্রাম(Computer Program): ভাইরাস, ফায়ারওয়াল ইত্যাদি;\n\n11. ডেটবেইস সিস্টেম(Databse System)।\n"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="তথ্যপ্রযুক্তিঃ ৫"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="1. ই-কমার্স(E-Commerce);\n\n2.সেলুলার ডাটা নেটওয়ার্ক(Cellular Data Network): টুজি(2G), থ্রিজি(3G), 3. ফোরজি(4G), ওয়াইম্যাক্স(Wimax) ইত্যাদি;\n\n
+4. কম্পিউটার নেটওয়ার্ক(Computer Network): ল্যান(LAN), ম্যান(MAN), ওয়াই-ফাই(WiFi), ওয়াইম্যাক্স(WImax) ইত্যাদি;\n\n 5. দৈনন্দিন জীবনে তথ্যপ্রযুক্তি (Information Technologies in Practical Fields)\n\n
+6. স্মার্টফোন(SmartPhone)\n\n7.ওয়ার্ল্ড ওয়াইড ওয়েভ(World Wide Web - WWW)\n\nইন্টারনেট (Internet)\n\n
+8. নিত্য প্রয়োজনীয় কম্পিউটিং প্রযুক্তি(Daily-Use Computing Technology): ই-মেইল(E-mail), ফ্যাক্স(Fax) ইত্যাদি;\n\n
+9. ক্লায়েন্ট-সার্ভার ম্যানেজমেন্ট(Client Server Management);\n\n 10. মোবাইল প্রযুক্তির বৈশিষ্ট্যসমূহ(Mobile Features);\n\n
+11.তথ্যপ্রযুক্তির বড় প্রতিষ্ঠান ও তাদের সেবা/তথ্যসমূহ(Tech-Giants Services and News): গুগল(Google), মাইক্রোসফট(Microsoft), আইবিএম(IBM) ইত্যাদি;\n\n
+12. ক্লাউড কম্পিউটিং(Cloud Computing);\n\n13. সোশ্যাল নেটওয়ার্কিং(Social Networking): ফেসবুক(Facebook), টুইটার(Twitter), ইন্সটাগ্রাম(Instagram) ইত্যাদি;\n\n
+14. রোবটিক্স (Robotics);\n\n15. সাইবার অপরাধ(Cyber Crime)।\n\n\n\n"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

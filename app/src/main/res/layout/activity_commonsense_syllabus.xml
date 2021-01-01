@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".syllabuses.CommonsenseSyllabus">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সিলেবাসঃ"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="বাংলাদেশ বিষয়াবলীঃ"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="পূর্নমানঃ৩০"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="১। বাংলাদেশের জাতীয় বিষয়াবলীঃ প্রাচীনকাল হতে সম-সাময়িক কালের ইতিহাস, কৃষ্টি ও সংস্কৃতি, বাংলাদেশের স্বাধীনতা যুদ্ধের ইতিহাস; ভাষা আন্দোলন; ১৯৫৪ সালের নির্বাচন; ছয়-দফা আন্দোলন, ১৯৬৬; গণ অভ্যুত্থান ১৯৬৮- ৬৯; ১৯৭০ সালের সাধারণ নির্বাচন; অসহযোগ আন্দোলন ১৯৭১; ৭ মার্চ ঐতিহাসিক ভাষণ; স্বাধীনতা ঘোষনা; মুজিবনগর সরকারের গঠন ও কার্যাবলী; মুক্তিযুদ্ধের রণকৌশল; মুক্তিযুদ্ধে বৃহৎশক্তিবর্গের ভূমিকা; পাকবাহিনীর আত্মসমর্পন এবং বাংলাদেশের অভ্যুদয়।\n\n ২। বাংলাদেশের কৃষিজ সম্পদঃ শস্য উৎপাদন এবং বহুমুখীকরণ, খাদ্য উৎপাদন ও ব্যবস্থাপনা। \n\n
+৩। বাংলাদেশের জনসংখ্যাঃ আদমশুমারী, জাতি, গোষ্ঠী ও উপজাতি সংক্রান্ত বিষয়াদি।\n\n৪। বাংলাদেশের অর্থনিতিঃ উন্নয়ন পরিকল্পনা প্রেক্ষিত ও পঞ্চবার্ষিকী, জাতীয় আয়-ব্যয়, রাজস্ব নীতি ও বার্ষিক উন্নয়ন কর্মসূচি, দারিদ্র বিমোচন ইত্যাদি।\n"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="৫। বাংলাদেশের শিল্প ও বাণিজ্যঃ শিল্প উৎপাদন, পণ্য আমদানী ও রপ্তানীকরন, গার্মেন্টস শিল্প ও সার্বিক ব্যবস্থাপনা, বৈদেশিক লেন-দেন, অর্থ প্রেরণ, ব্যাংক ও বীমা ব্যবস্থাপনা ইত্যাদি।\n\n
+৬। বাংলাদেশের সংবিধানঃ প্রস্তাবনা ও বৈশিষ্ঠ্য, মৌলিক অধিকার সহ রাষ্ট্র পরিচালনার মূলনীতি সমূহ, সংবিধানের সংশোধনীসমূহ।\n\n
+৭। বাংলাদেশের রাজনৈতিক ব্যবস্থাঃ রাজনৈতিক দলসমূহের গঠন, ভূমিকা ও কার্যক্রম, ক্ষমতাসীন ও বিরোধীদলের পারস্পরিক সম্পর্কাদি, সুশীল সমাজ ও চাপ সৃষ্টিকারী গোষ্ঠী সমূহ এবং এদের ভূমিকা।\n\n
+৮। বাংলাদেশের সরকার ব্যবস্থাঃ আইন, শাসন ও বিচার বিভাগ সমূহ, আইন প্রণয়ন, নীতি নির্ধারন, জাতীয় ও স্থানীয় পর্যায়ের প্রশাসনিক ব্যবস্থাপনা কাঠামো, প্রশাসনিক পুনর্বিন্যাস ও সংস্কার।\n\n
+৯। বাংলাদেশের জাতীয় অর্জনঃ বিশিষ্ট ব্যক্তিত্ব, গুরুত্বপূর্ণ প্রতিষ্ঠান ও স্থাপনা সমূহ, জাতীয় পুরস্কার, বাংলাদেশের খেলাধুলাসহ চলচ্চিত্র, গণমাধ্যম-সংশ্লিষ্ট বিষয়াদি।"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="আন্তর্জাতিক বিষয়াবলি\n\nপূর্ণমানঃ২০"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="১। বৈশ্বিক ইতিহাস, আঞ্চলিক ও আন্তর্জাতিক ব্যবস্থা, ভূ-রাজনীতি;\n\n২। আন্তর্জাতিক নিরাপত্তা ও আন্তরাষ্ট্রীয় ক্ষমতা সম্পর্ক;\n\n
+৩। বিশ্বের সাম্প্রতিক ও চলমান ঘটনাপ্রবাহ;\n\n৪। আন্তর্জাতিক পরিবেশগত ইস্যু ও কুটনীতি;\n\n ৫। আন্তর্জাতিক সংগঠনসমূহ এবং বৈশ্বিক অর্থনীতি প্রতিষ্ঠানাদি।\n"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

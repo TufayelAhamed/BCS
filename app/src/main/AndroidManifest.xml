@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bcspreparations">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".answer.ScienceAnswer"></activity>
+        <activity android:name=".answer.MathAnswer" />
+        <activity android:name=".answer.EnglishAnswer" />
+        <activity android:name=".answer.ComputerAnswer" />
+        <activity android:name=".answer.CommonsensAnswer" />
+        <activity android:name=".answer.BengaliAnswer" />
+        <activity android:name=".MarkSheet" />
+        <activity android:name=".ict.ModelTestICT" />
+        <activity android:name=".question.QuestionComputer" />
+        <activity android:name=".subDiscription.SubjectDescriptionComputer" />
+        <activity android:name=".questionAnalysis.QuestionAnalysisComputer" />
+        <activity android:name=".syllabuses.SyllabuesComputer" />
+        <activity android:name=".ModelTestScience" />
+        <activity android:name=".question.QuestionScience" />
+        <activity android:name=".subDiscription.SubjectDescriptionScience" />
+        <activity android:name=".questionAnalysis.QuestionAnalysisScience" />
+        <activity android:name=".ModelTestGK" />
+        <activity android:name=".question.QuestionCommonsens" />
+        <activity android:name=".subDiscription.SubjectDescriptionCommonsense" />
+        <activity android:name=".questionAnalysis.QuestionAnalysisCommonsense" />
+        <activity android:name=".admin.ScienceEdit" />
+        <activity android:name=".admin.MathEdit" />
+        <activity android:name=".admin.ICTEdit" />
+        <activity android:name=".admin.GeneralKnowledgeEdit" />
+        <activity android:name=".admin.EnglishEdit" />
+        <activity android:name=".admin.BanglaEdit" />
+        <activity android:name=".admin.PageSwitch" />
+        <activity android:name=".admin.MathManage" />
+        <activity android:name=".admin.GeneralKnowladgeManage" />
+        <activity android:name=".admin.ScienceManage" />
+        <activity android:name=".admin.ICTManage" />
+        <activity android:name=".admin.BanglaManage" />
+        <activity android:name=".admin.ModelTestSubject" />
+        <activity android:name=".login.SignIn">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Mood" />
+        <activity android:name=".ModelTestMath" />
+        <activity android:name=".question.QuestionMath" />
+        <activity android:name=".subDiscription.SubjectDescriptionMath" />
+        <activity android:name=".questionAnalysis.QuestionAnalysisMath" />
+        <activity android:name=".admin.EnglishManage" />
+        <activity android:name=".secondPages.computerSecondPage" />
+        <activity android:name=".secondPages.CommonsenseSecondPage" />
+        <activity android:name=".secondPages.MathSecondPage" />
+        <activity android:name=".secondPages.ScienceSecondPage" />
+        <activity android:name=".syllabuses.ScienceSyllabus" />
+        <activity android:name=".syllabuses.CommonsenseSyllabus" />
+        <activity android:name=".syllabuses.SyllabusMath" />
+        <activity android:name=".english.ModelTestEnglish" />
+        <activity android:name=".questionAnalysis.QuestionAnalysisEnglish" />
+        <activity android:name=".question.QuestionEnglish" />
+        <activity android:name=".subDiscription.SubjectDescriptionEnglish" />
+        <activity android:name=".syllabuses.SyllabusEnglish" />
+        <activity android:name=".bangla.ModelTestBangla" />
+        <activity android:name=".questionAnalysis.QuestionAnalysisBangla" />
+        <activity android:name=".question.QuestionBengali" />
+        <activity android:name=".subDiscription.SubjectDescriptionBangla" />
+        <activity android:name=".syllabuses.SyllabusBangla" />
+        <activity android:name=".secondPages.EnglishSecondPage" />
+        <activity android:name=".secondPages.BanglaSecondPage" />
+        <activity android:name=".SecondPage" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

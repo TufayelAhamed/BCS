@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".login.SignIn">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_margin="2dp"
+       android:padding="3dp"
+       android:orientation="horizontal">
+       <TextView
+           android:layout_width="0dp"
+           android:layout_weight="1"
+           android:layout_margin="5dp"
+           android:background="@drawable/button"
+           android:padding="3dp"
+           android:layout_height="50dp"
+           android:textSize="20sp"
+           android:gravity="center"
+           android:textStyle="bold"
+           android:textColor="@color/snow"
+           android:text="LOGIN"
+           android:onClick="LogInHeadBTN"/>
+       <TextView
+           android:layout_width="0dp"
+           android:layout_weight="1"
+           android:layout_height="50dp"
+           android:textSize="20sp"
+           android:gravity="center"
+           android:background="@drawable/button"
+           android:layout_margin="5dp"
+           android:textColor="@color/snow"
+           android:padding="3dp"
+           android:textStyle="bold"
+           android:text="SIGNUP"
+           android:onClick="SignUpHeadBTN"/>
+   </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+            <EditText
+                android:id="@+id/emailET"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="email address"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textColor="@color/snow"
+                android:background="@drawable/button" />
+            <EditText
+                android:id="@+id/passwordET"
+                android:layout_width="match_parent"
+                android:textColor="@color/snow"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:background="@drawable/button"
+                android:layout_height="50dp"
+                android:inputType="textPassword"
+                android:ellipsize="start"
+                android:hint="password" />
+            <Button
+                android:id="@+id/loginHeadBTN"
+                android:layout_width="150dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/snow"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:layout_height="70dp"
+                android:background="@drawable/button"
+                android:text="Login"
+                android:onClick="loginUser"/>
+            <Button
+                android:id="@+id/signupHeadBTN"
+                android:visibility="gone"
+                android:layout_width="150dp"
+                android:layout_height="70dp"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorBlack"
+                android:text="Sign Up"
+                android:background="@drawable/button"
+                android:onClick="createUser"/>
+            <TextView
+                android:id="@+id/status"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>

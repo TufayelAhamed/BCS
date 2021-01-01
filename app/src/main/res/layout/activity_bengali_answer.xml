@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".answer.BengaliAnswer">
+    <TextView
+        android:layout_margin="20dp"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:text="উত্তরঃ"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:textStyle="normal"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="1. উত্তরঃ ৭টি \n2. উত্তরঃ অর্ধ-তৎসম\n3. উত্তরঃ তুর্কি\n4. উত্তরঃ তৎপুরুষ\n5. উত্তরঃ মোড়ক\n6. উত্তরঃ কাব্য\n7. উত্তরঃ মিথিলা\n8. উত্তরঃ প্রবন্ধ\n9. উত্তরঃ বন্দী শিবির থেকে\n10. উত্তরঃ ১৮৬১"
+        />
+
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".secondPages.ScienceSecondPage">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/Science_button1"
+                android:layout_width="250dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:background="@drawable/button"
+                android:text="সিলেবাস" />
+            <Button
+                android:id="@+id/Science_button2"
+                android:layout_width="250dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:background="@drawable/button"
+                android:text="প্রশ্ন বিশ্লেষণ  " />
+            <Button
+                android:id="@+id/Science_button3"
+                android:layout_width="250dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:background="@drawable/button"
+                android:text="বিষয় ভিত্তিক বর্ণনা " />
+            <Button
+                android:id="@+id/Science_button4"
+                android:layout_width="250dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:background="@drawable/button"
+                android:text="প্রশ্ন" />
+            <Button
+                android:id="@+id/Science_button5"
+                android:layout_width="250dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:background="@drawable/button"
+                android:text="মডেল টেস্ট"
+                android:layout_marginBottom="35dp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

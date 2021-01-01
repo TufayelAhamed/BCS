@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".question.QuestionScience">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="প্রশ্ন:"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১। মূল নাই কোন উদ্ভিদে?\nক. ফণিমনসা\nখ. বীরুত\nগ. গুল্ম\nঘ. সাইকাস\n\n২। মাইটোকন্ড্রিয়ার কত ভাগ প্রোটিন?\nক. ৭০%\nখ. ৭২%\nগ. ৭৩%\nঘ. ৮০%"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n৩। কোন মাধ্যমে শব্দের গতি সবচেয়ে বেশি? \nক. শূন্যতায়\nখ. লোহা\nগ. পানি\nঘ. বাতাস\n\n৪। নিউমোনিয়া রোগে আক্রান্ত হয় মানব দেহের-\nক. ফুসফুস\nখ. যকৃত\nগ. কিডনি\nঘ. প্লীহা\n\n৫। বৈদ্যুতিক ইস্ত্রি এবং হিটারে ব্যবহৃত হয়-\nক. টাংস্টেন তার\nখ. নাইক্রোম তার\nগ. এন্টিমনি তার\nঘ. কপার তার"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n৬। শুষ্ক বরফ বলা হয়-\nক. হিমায়িত অক্সিজেনকে\nখ. হিমায়িত কার্বন মনোক্সাইডকে\nগ. ক্যালসিয়াম অক্সাইডকে\nঘ. হিমায়িত কার্বন ডাই অক্সাইডকে\n\n৭। হাড় ও দাতকে মজবুত করে-\nক. আয়োডিন\nখ. আয়রন\nগ. ম্যাগনেসিয়া\nঘ. ফসফরাস\n\n৮। স্যালিক এসিড-\nক. আমলকিতে পাওয়া যায়\nখ. কমলালেবুতে পাওয়া যায়\nগ. আঙ্গুরে পাওয়া যায়\nঘ. টমেটোতে পাওয়া যায়"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n৯। সালোক সংশ্লেষণ সবচেয়ে বেশি পরিমাণে হয়-\nক. সবুজ আলোতে\nখ. নীল আলোতে\nগ. লাল আলোতে\nঘ. বেগুনি আলোতে\n\n১০। প্রেসার কুকারে পানির স্ফুটনাংক-\nক. কম হয়\nখ. বেশি হয়\nগ. ঠিক থাকে\nঘ. কোনটি নয়\n\n১১। আর্সেনিকের পারমাণবিক সংখ্যা কত?\nক. ৩৯\nখ. ৩২\nগ. ৩৩\nঘ. ৩৪"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১২। ডেঙ্গু জ্বরের বাহক কোন মশা?\nক. এনোফিলিস\nখ. এডিস\nগ. কিউলেক্স\nঘ. সব ধরনের মশা\nউত্তরঃ এডিস\n\n১৩। কোনটি বেশি স্থিতিস্থাপক?\nক. ইস্পাত\nখ. রাবার\nগ. কাচ\nঘ. পানি\nউত্তরঃ ইস্পাত\n\n১৪। ‘পিসিকালচার’ বলতে কি বোঝায়?\nক. হাস-মুরগি পালন\nখ. মৌমাছি\nগ. মৎস্য চাষ\nঘ. রেশম চাষ\nউত্তরঃ মৎস্য চাষ"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১৫। উড়োজাহাজের গতি নির্ণায়ক যন্ত্র-\nক. ক্রনোমিটার\nখ. ওডোমিটার\nগ. ট্যাকোমিটার\nঘ. ক্রেসকোগ্রাফ\n\n১৬।বৈদ্যুতিক পাখা ধীরে ধীরে ঘুরলে বিদ্যুৎ খরচ –\nক. কম হয়\nখ. বেশি হয়\nগ. একয় হয়\nঘ. খুব কম হয়\n\n১৭। তামার সাথে নিচের কোনটি মেশালে পিতল হয়?\nক. নিকেল\nখ. টি\nগ. সিসা\nঘ. দস্তা"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১৮। ফনোগ্রাফ কে আবিষ্কার করেন?\nক. রন্টজেন\nখ. ফ্যারাডে\nগ. মার্কনি\nঘ. এডিসন\n\n\n১৯।সুষম খাদ্যের উপাদান কয়টি?\nক. ৪টি\nখ. ৫টি\nগ. ৬টি\nঘ. ৮টি\n\n২০। মানুষের স্পাইনাল কর্ডের দৈর্ঘ্য কত?\nক. ১৫ ইঞ্চি\nখ. ১৭ ইঞ্চি\nগ. ১৮ ইঞ্চি\nঘ. ২০ ইঞ্চি\n\n২১। বিদ্যুৎ বিলের হিসাব কিভাবে করা হয়?\nক. ওয়াট আওয়ারে\nখ. ওয়াটে\nগ. ভোল্টে\nঘ. কিলোওয়াট ঘন্টায়"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n২২। কোনটি পানিতে দ্রবীভূত হয় না?\nক. গ্লিসারিন\nখ. ফিটকি\nগ. সোডিয়াম ক্লোরাইড\nঘ. ক্যালসিয়াম কার্বনেট\n\n\n২৩। উদ্ভিদের পাতা হলুদ হয়ে যায় কিসের অভাবে?\nক. নাইট্রোজেনের\nখ. ফসফরাসের\nগ. ইউরিয়ার\nঘ. পোতাসিয়ামে\n\n\n২৪। চা পাতায় কোন ভিটামিন থাকে?\nক. ভিটামিন-\nখ. ভিটামিন-কে\nগ. ভিটামিন-বি কমপ্লেক্স\nঘ. ভিটামিন-"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n২৫।ইনসুলিন নিঃসৃত হয় কোথা থেকে?\nক. অগ্ন্যাশয় হতে\nখ. প্যানক্রিয়াস হতে\nগ. লিভার হতে\nঘ. পিটুইটারী গ্ল্যান্ড হতে\n\n"
+                />
+            <Button
+                android:id="@+id/SAns"
+                android:layout_width="260dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:layout_margin="20dp"
+                android:background="@drawable/button"
+                android:text="ANSWER SHEET" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

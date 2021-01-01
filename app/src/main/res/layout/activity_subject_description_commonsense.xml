@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".subDiscription.SubjectDescriptionCommonsense">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="বিসিএস সাধারণ জ্ঞান পূর্ণাঙ্গ প্রস্তুতি"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="20dp"
+                android:text="বাংলাদেশের জাতীয় অর্জন ও অন্যান্য"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:text="→ জাতীয় সঙ্গীত মূল কবিতার প্রথম ১০ চরণ। উৎসব অনুষ্ঠানে জাতীয় সঙ্গীতের ৪ চরণ! বাজানো হয়। এ রচয়িতা ও সুরকার। রবীন্দ্রনাথ ঠাকুর। এর ইংরেয়ি অনুবাদক। সৈয়দ আলী আহসান।\n→ ‘আমার সোনার বাংলা’ গানটির রচনার । প্রেক্ষাপট বঙ্গভঙ্গজনিত আন্দোলনকালে | রচিত। এতে বাংলাদেশের প্রকৃতির কথা বা প্রাকৃতিক সৌন্দর্যের বিষয়টি ফুটে উঠেছে।\n→ বাংলাদেশ ছাড়া ভারতে রবীন্দ্রনাথ ঠাকুরের গান তাদের জাতীয় সঙ্গীত হিসেবে নির্বাচিত করেছে।\n → বাংলাদেশের রণসংগীতের রচয়িতা কাজী নজরুল ইসলাম। অনুষ্ঠানে যন্ত্রসঙ্গীতের সুরে রণসঙ্গীতের ২১ লাইন বাজানো হয়।\n→ সংবিধানের ৪(১) নং অনুচ্ছেদ জাতীয় ! সংগীতকে স্বীকৃতি দেওয়া হয়। জাতীয় পতাকা বিধি ১৯৭২ সালে প্রণীত হয়। জাতীয়! পতাকার আকার দৈর্ঘ্য ও প্রস্থ = ১০ঃ ৬ বা ৫ঃ৩।\n → বাংলাদেশের জাতীয় পতাকা সর্বপ্রথম উত্তোলন।। করেন ২ মার্চ '৭১ আ. স. ম. আবদুর রব, । ঢাকা বিশ্ববিদ্যালয়ের বটতলায় ।\n→ বিদেশি মিশনের মধ্যে সর্বপ্রথম কলকাতায় বাংলাদেশ মিশনে জাতীয় পতাকা উত্তােলন করা হয়। \n→ ১৯৭১ সালে মুক্তিযুদ্ধের সময় বাংলাদেশের পতাকায় বর্তমানে সবুজের মধ্যে লাল গোলকের ভিতর আর একটি প্রতীক ছিল তা হলুদ রঙের বাংলাদেশের ম্যাপ। এটি শিবনারায়ণ দাস কর্তৃক ডিজাইনকৃত।\n → গণপ্রজাতন্ত্রী বাংলাদেশের মনোগ্রামে (জাতীয় প্রতীক) মােট চারটি তারকা রয়েছে। \n→ জাতীয় নাট্যশালা শিল্পকলা একাডেমি, সেনবাগিচা।\n→ বাংলাদেশের রাষ্ট্রীয় লোগো ডিজাইন করেন এ। এন সাহা।\n → বাংলাদেশের জাতীয় কবি হলেন কাজী নজরুল ইসলাম। তাঁর জন্মদিন ১১ জ্যৈষ্ঠ। জীবনকাল ১৮৯৯-১৯৭৬। ঢাকা বিশ্ববিদ্যালয়ের মসজিদের পাশে তাকে সমাহিত করা হয়।\n → ময়মনসিংহের ত্রিশালের দরিরামপুর, কুমিল্লা বাংলাদেশে কাজী নজরুলের স্মৃতিবিজড়িত স্থান।\n"
+                />
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="বাংলাদেশের রাজনৈতিক ব্যবস্থা\n"
+                android:textAllCaps="false"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                />
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="বাজনৈতিক দলসমুহের গঠন, ভূমিকা ও কার্যক্রম\n"
+                android:textAllCaps="false"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="10dp"
+                android:text="→ রাজনৈতিক দল এমন এক জনসংগঠন যার। সদস্যগণ রাষ্ট্রের সমস্যা সম্পর্কে ঐকমত্য পোষণ করে এবং নিয়মতান্ত্রিক উপায়ে ক্ষমতা দখলের মাধ্যমে গৃহীত কর্মসূচি বাস্তবায়ন প্রতে সচেষ্ট হয়।\n→ সংখ্যার ভিত্তিতে দলীয় ব্যবস্থাকে প্রধানত তিনটি শ্রেণিতে বিভক্ত করা হয়- একনগীয় ব্যবস্থা, দ্বিদলীয় ব্যবস্থা এবং বহুদলীয় ব্যবস্থা। \n→ দ্বিতীয় বিশ্বযুদ্ধের পূর্বে জার্মানিতে হিটলারের “মাসি দল', ইতালিতে মুসোলিনীর ফ্যাসিস্ট দল এবং ১৯১৭ সালে সোভিয়েত রাশিয়ার একদলীয় সমাজতান্ত্রিক সমাজব্যবস্থা প্রবর্তিত হয়।\n → দ্বিদলীয় ব্যবস্থায় সাধারণত রাজনৈতিক ক্ষমতা দখলের প্রতিদ্বন্দ্বিতা প্রধান দুটি প্রতিদ্বন্দ্বী দলের মধ্যে সীমাবদ্ধ থাকে। যুক্তরাষ্ট্রে ডেমোক্রেটিক পার্টি ও রিপাবলিকান পার্টি এবং গ্রেট ব্রিটেনে রক্ষণশীল দল ও শ্রমিক দল দ্বিদলীয় ব্যবস্থার উফল উদহারণ।\n → একটি গণতান্ত্রিক রাষ্ট্র যখন দুটির বেশি দল রাজনৈতিক ক্ষমতা লাৰে তাইয়ে কার্যকর ভূমিকা পালন করে, তখন তাঁকে 'হুদলীয় ব্যবস্থা' বলে। \n→ গণতান্ত্রিক শাসন ব্যবস্থায় রাজনৈতিক শক্সি মূল উৎস হলো জনগণ। কাণতন্ত্রকে সফল করতে হলে প্রয়োজন সক্রিয়, সচেতন ও সাজয় জনমত।\n"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="বাংলাদেশের সংবিধান\nপ্রস্তাবনা ও বৈশিষ্ট্য \n"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="5dp"
+                android:layout_marginStart="5dp"
+                android:text="→ সংবিধানের প্রস্তাবনায় উল্লিখিত হয়েছে, আমরা, বাংলাদেশের জনগণ, ১৯৭১ খ্রিষ্টাব্দের মার্চ মাসের ২৬ তারিখে স্বাধীনতা ঘোষণা করিয়া জাতীয় মুক্তির জন্য ঐতিহাসিক সংগ্রামের মাধ্যমে স্বাধীন ও সার্বভৌম গণপ্রজাতন্ত্রী বাংলাদেশ প্রতিষ্ঠিত করিয়াছি। জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতার সেই সকল আদর্শ এই সংবিধানের মূলনীতি হইবে। \n→ বাংলাদেশের সংবিধানের বৈশিষ্ট্য হলো : লিখিত দলিল; দুষ্পরিবর্তনীয়; রাষ্ট্র পরিচালনার সুনির্দিষ্ট মূলনীতি; মৌলিক অধিকার বলবৎ সর্বজনীন ভোটাধিকার; প্রজাতান্ত্রিক রাষ্ট্রব্যবস্থা; সংসদীয় সরকার; এককেন্দ্রিক রাষ্ট্র; আইনসভা; সর্বোচ্চ আইন প্রভৃতি।\n→ এ সংবিধানের ১৫৩টি অনুচ্ছেদ ও ১১টি ভাগ রয়েছে। রাষ্ট্র পরিচালনার মূলনীতি (৮ - ২৫ অনুচ্ছেদ): সংবিধানের মূলনীতি ৪টি।\n→ সংবিধানের ২১ (২) অনুচ্ছেদে বলা হয়েছে, সকল জনগণের সেবা করিবার চেষ্টা করা প্রজাতন্ত্রের কর্মে নিযুক্ত প্রত্যেক ব্যক্তির কর্তব্য।\n" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="বাংলাদেশের শিল্প ও বাণিজ্য \nশিল্প উৎপাদন"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="কাগজকল"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="→ পাকশী কাগজের কলে প্রধান কাঁচামাল হিসেবে আখের ছোবড়া ব্যবহৃত হয়। সবুজ পাট হতে কাগজের মণ্ঠ প্রকৃত প্রযুক্তির ইয়াকিন হয় বাংলাদেশে।\n→ সরকারি নিউজপ্রিন্ট মিল খুলনায় অবস্থিত। এ মিলে কাচামাল হিসেৰে ৰাষহরি করে দেওয়া কাঠ।\n→ ১৯৫৩ সালে বাংলাদেশে প্রথম উইনের চহানায় কর্ণফুলী কাগজ মিল প্রতিষ্ঠিত হয় এ মিলের প্রধান কাঁচামাল হলো বাঁশ\n→ বাংলাদেশে বর্তমানে ৭টি কাগজ কল ২টি হার্ডবোর্ড মিল চালু আছে।\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="সার কারখানা"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="→ ১৯৬১ সালে সর্বপ্রথম সন্ত্র কারখানা স্থাপন করা হয় সিলেটে।\n→ বাংলাদেশের বৃহত্তম সার কারখানী যমুনা সার কারখানা তৈয়াকামি, দলপুর, ১৯৮৯)।"
+                />
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="জনসংখ্যা ও উপজাতি"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="→ বাংলাশেশে আনসংখ]- মেরি - ১৫.০৮ কোটি |জনক সমীক্ষা-২০১৮। - ১০৯০ জন প্রতি বর্গকলোমিটার) বৃদ্ধির হার ১.৩৭%। শ। নারী - ১০০.৩৫ ১০০। আৰু মাছ - ৭১,৯ বছর (পুরু ০.৩ মহিলা ২.৯ বছর)। শিক্ষার হার- ৭১% দারিদ্র্যের হার ২৪.৩% শিত মৃত্যুর হার (১ বছরের কম প্রতি প্রজালে) = ২৮ ই।→ জনসংস্থা সমস্যা বাংlামেশে এক নম্বর জাতীয় সামাজিক সমশা।→ জনলখায় ঢাকার পরেই ডক্টগ্রাম বিভাগের স্থান। প্রতি বর্গকিলোমিটারে সর্বনিন্ম বসতি বান্দরবানে ১৮৭২ সালে ভারতবর্ষে এবং স্বাধীন বাংলাদেশ ১৯৭৪ সালে প্রথম আদমশুমারি হয়।বাংলাদেশে এ পর্যন্ত ৫টি আদমদমারি অনুষ্ঠিত হয়। → বিশ্ব জনসংখ্যা রিপোর্ট ২০১৮ অনুসারে জনসংখ্যার দিক থেকে বাংলাদেশ বিশ্বের ৮ম দেশ। মুসলিম বিশ্বে বাংলাদেশের স্থান চতুর্থ। → জনসংখ্যার আধিকা রোধকল্পে বাংলাদেশে ১৯৭৬ সালে জাতীয় জনসংখ্যা নীতি প্রণীত হয়।→ ৫ম আদমশুমারির (২০১১) রিপাের্ট অনুযায়ী জনসংখ্যা বৃদ্ধির সর্বনিম হার বরিশাল বিভাগে। বাংলাদেশে আগামী ২০২১ সালে (৬) আদমশুমারি করা হবে।→ NIPORT হলে জনসংখ্যা বিষয়ক গবেষণা ট্রেনিং সেন্টার। এটি ঢাকার আজিমপুরে অবস্থিত।→২৪ আগস্ট ০৪ বাংলাদেশে সম্বনের পচয়ের ক্ষেত্রে বাবার নামের পাশে মায়ের নাম লেখার সিদ্ধান্ত হয়।→ বাংলাদেশে আনুমানিক ৪৮টি উপজাতির বসবাস। পার্বত্য চট্টগ্রামে ১৩টি উপজাতি বাস করছে।→ সর্ববৃহৎ উপজাতিগোষ্ঠী চাকমা। চাকমা উপজাতিরা বৌদ্ধ ধর্মাবলম্বী। বৃহত্তর পার্বত্য চনি ও কক্সবাজারে এদের বসতি দেখা যায়।→ মণিপুরী সিলেট, রাজবংশী রংপুরে, গারো ময়মনসিংহে, খাসিয়া সিলেট সীমান্তে, মারমা বা মগ বান্দরবানের চিম্বুক পাহাড়ের পাদদেশে বাস করে ।"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="মুক্তিযুদ্ধের সেক্টরসমূহ"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="মুক্তিযুদ্ধ পরিচালনার জন্য বাংলাদেশকে মোট ১১টি সেক্টরে এবং ৬৪টি সাব-সেক্টরে বিবক্ত করা হয়েছে ।\n১ নং (সেক্টর) ফেণী দর্শী হতে অক্ষিণাঞ্চলে বৃহত্তর চট্টগ্রাম, কক্সবাজার, ঋগন্ধান্তি, কারণ ও লাই) চট্টগ্রাম জেলা। না কমায়। মেজর জিয়াউর রহমান (এপ্রিল, জুন), মেজর রফিকুল ইসলাম (জুন-ডিসেম্বর)।\n২ নং (সেক্টর) বৃহকার নোয়াখালী এবং কুমিল্লা, বি-বাড়িয়ায়! আখাউড়াকৈর জেল পাইন পর্যন্ত এবং ঢাকা ও ফরিদপুর জেলার অংশ। কমাস্তায় মেঝ খালেদ মােশারফ (এপ্রিল- সেপ্টেম্বর), মেজর এ,টি,এম, হায়দার (সেপ্টেম্বর-ডিসেম্বর) ! \n ৩ নং (সেক্টর,১০৯) আখাউড়া-ভৈৱৰ রেললাইনের উত্তর ঔতর-পূর্বাংশ, হবিগঞ্জ, কিশোরগঞ্জ ঞ্চি জেলায় অংশ মেজর শফিউল্লাহ (এপ্রিল-সেপ্টেম্বর), মেজর কমান্ডার নুরুজ্জামান (সেপ্টেম্বর-ডিসেম্বর)।\n৪ নং (সেক্টর) মৌলভীবাজার জেলা, সিলেটের দক্ষিণ অঞ্চল থেকে পূর্ণ-উত্তর দিকে সিলেট-ভাউকি সড়ক ও সুনামগঞ্জের অংশ। কমান্ডার মেকার চিত্রাঞ্জন দত্ত, ক্যাপ্টেন আ, বৰ।\n ৫ নং (সেক্টর) সিলেট কাউকি সড়ক থেকে সিলেটের উত্তর ও পশ্চিম এলাকা, সুনামগঞ্জ (s নং অংশ বাদে)। একমাত্র মেজর মীর শওকত আলী।\n৬ নং ( সেক্টর) বৃহত্তর রংপুর ও দিনাজপুর জেলা (ব্ৰহ্মপুত্র নদের তীরবর্তী অঞ্চল ব্যতীত)। कमालाच উইং কমান্ডার এম, কে, বাশার।\n ৭ নং (সেক্টর) বৃহত্তর রাজশাহী, বগুড়া ও পাবনা জেলা (ব্রহ্মপুত্র নদের এলাকা ব্যতীত)। মেজর নাজমুল হক (এপ্রিল- আগস্ট), মেজর কাজী নুরুজ্জামান (আগস্ট-ডিসেম্বর)।\n৮ নং (সেক্টর) বৃহত্তর কুষ্টিয়া ও যশাের অঞ্চল, রাজবাড়ি জেলা, ফরিদপুর, মাদারীগুন, গোপালগঞ্জ ও সুলনা অঞ্চলের অংশবিশেষ। (দৌলতপুর-সাতক্ষীরা সড়ক পর্যন্ত)। কাতার মেজর আবু ওসমান চৌধুরী। (এপ্রিল-আগষ্ট), মেজর এম, এ, মঞ্জুর (আগষ্ট-ডিসেম্বর)।\n৯ নং (সেক্টর) সাতক্ষীরা-দৌলতপুর সড়কসহ খুলনা অঞ্চলের দক্ষিণাঞ্চল এবং ! বরিশাল বিভাগ। মারি মেজর আব্দুল জলিল (এপ্রিল- ডিসেম্বর), মেজর এম. এ. মঞ্জুর (অতিরিক্ত দায়িত্ব) (ডিসেম্বর) মের জয়নাল আবের্দীন ।"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="মুক্তিযুদ্ধে খেতাৰ"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="প্রদান মুক্তিঘোদ্ধাদের দেয়াৰ ৪ পর্বে বিভক্ত নীরশ্রেষ্ঠ ৭ জন, ৰৈ উম ৬ জন, নীৰ বিক্রম ১৭৫ জন, বীর প্রতীক ৪২৬ জন মোট খোযথ নি।\nস্বাধীনতা যুদ্ধে অবদানের স্বনা সর্বোচ্চ বর্জন খেত্তাৰ “ৰীৰশ্রেষ্ঠ'। এটি পেয়েছেন ৭ জন।\n বাংলাদেশের মর্থনা অনুসারে ৩য় বীরত্বসূক যে-বীর বিক্রম।\n → স্বাধীনতা যুদ্ধে অবদানের জন্য ২জন মহিলাকে বীরপ্রতীক উপাধি দেওয়া হয়- ভা, সেতারা বেগম ও তারামন বিবি। বিদেশি হিসেবে বীর্তীক খেতাবপ্রাপ্ত প্রতি গুড়ারল্যান্ড এর জন্ম দেদারল্যান্ড, নাগরিকত্ব লয়।"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

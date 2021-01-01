@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".question.QuestionCommonsens">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="প্রশ্ন:"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="১। বাংলাদেশের জাতীয় সংসদ কয় কক্ষ বিশিষ্ট?\nক. এক কক্ষ\nখ. দ্বিকক্ষ\nগ. তিন কক্ষ\nঘ. বহুকক্ষ বিশিষ্ট\nউত্তরঃ এককক্ষ
+\n\n২।বাংলাদেশের প্রথম আদমশুমারী  অনুষ্ঠিত হয় কবে?\nক. ১৯৭২ সালে\nখ. ১৯৭৩ সালে\nগ. ১৯৮৪ সালে\nঘ. ১৯৭৪ সালে\nউত্তরঃ ১৯৭৪ সালে\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৩। বাঙ্গালী জাতীর প্রধান অংশ কোন মূল জাতিগোষ্ঠীর অন্তর্ভুক্ত?\nক. পুণ্ড্র\nখ. তাম্রলিক\nগ. গৌড়\nঘ. হরিকেল\nউত্তরঃ পুণ্ড্র\n
+\n৪। ঢাকার লালবাগের দুর্গ কে নির্মাণ করেন?\nক. শাহ সুজা\nখ. শায়েস্তা খান\nগ. মীর জুমলা\nঘ. সুবেদার ইসলাম খান\nউত্তরঃ শায়েস্তা খান\n\n
+৫। বাঙ্গলার “ছিয়াত্তরের মন্বন্তর” এর সময় কাল-\nক. ১৭৭০ খ্রিস্টাব্দ\nখ. ১৭৬০ খ্রিস্টাব্দ\nগ. ১৭৬৫ খ্রিস্টাব্দ\nঘ. ১৭৫৬ খ্রিস্টাব্দ\nউত্তরঃ ১৭৭০ খ্রিস্টাব্দ\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৬। ৬ দফা দাবি পেশ করা হয়?\nক. ১৯৭০ সালে\nখ. ১৯৬৬ সালে\nগ. ১৯৬৫ সালে\nঘ. ১৯৬৯ সালে\nউত্তরঃ ১৯৬৬ সালে
+\n\n৭। কোন রাষ্ট্রীয় অনুষ্ঠানে জাতীয় সংগীতের কত চরণ বাজানো হয়?\nক. প্রথম ১০ টি\nখ. প্রথম ৪ টি\nগ. প্রথম ৬ টি\nঘ. প্রথম ৫ টি\nউত্তরঃ প্রথম ৪ টি
+\n\n৮। ECNEC এর চেয়ারম্যান বা সভাপতি কে?\nক. অর্থমন্ত্রী\nখ. প্রধান্মন্ত্রী\nগ. পরিকল্পনা মন্ত্রী\nঘ. স্পিকার\nউত্তরঃ প্রধানমন্ত্রী\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৯। ‘অগ্নিশ্বর’ কোন ফসলের উন্নত জাত?\nক. ধান \nখ. কলা\nগ. পাট\nঘ. গম\nউত্তরঃ কলা
+\n\n১০। কোন উপজাতি বা ক্ষুদ্র নৃ-গোষ্ঠীর ধর্ম ইসলাম?\nক. রাখাইন\nখ. মারমা\nগ. পাঙন\nঘ. খিয়াং\nউত্তরঃ পাঙন
+\n\n১১। ঢাকার ‘ধোলাই খাল’ কে খনন করেন?\nক. পরিবিবি\nখ. ইসলাম খান\nগ. শায়েস্তা খান\nঘ. ঈশা খান\nউত্তরঃ ইসলাম খান"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১২। বাংলাদেশকে স্বীকৃতি প্রদানকারী প্রথম ইউরোপীয় দেশ কোনটি?\nক. যুক্তরাজ্য\nখ. পূর্ব জার্মানি\nগ. স্পেন\nঘ. গ্রিস\nউত্তরঃ পূর্ব জার্মানি
+\n\n১৩। বাঙ্গলাদেশের বৃহত্তর জেলা কতটি?\nক. ১৭টি\nখ. ২০টি\nগ. ৬৪টি\nঘ. ১৯টি\nউত্তরঃ ১৯টি
+\n\n১৪। ‘শুভলং’ ঝরণা কোন জেলায় অবস্থিত?\nক. রাঙামাটি\nখ. বান্দরবান\nগ. মৌল্ভীবাজার\nঘ. সিলেট\nউত্তরঃ রাঙামাটি"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১৫।সুন্দরবনে বাঘ গণনায় ব্যবহৃত হয়?\nক. পাগ-মার্ক\nখ. ফুটমার্ক\nগ. GIS\nঘ. কোয়ার্ডবেট\nউত্তরঃ পাগ-মার্ক
+\n\n১৬। বাংলাদেশের কখন থেকে বয়স্কভাতা চালু হয়?\nক. ১৯৯৮ সালে\nখ. ১৯৯৯ সালে\nগ. ২০০০ সালে\nঘ. ১৯৯৭ সালে\nউত্তরঃ ১৯৯৮ সালে
+\n\n১৭। বাংলাদেশের সাথে ভারতের সীমানা কত?\nক. ৫১৩৮ কি.মি\nখ. ৪৩৭১ কি.মি\nগ. ৪১৫৬ কি.মি\nঘ. ৩৯৭৮ কি.মি\nউত্তরঃ ৪১৫৬ কি.মি"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১৮। মেয়র মোহাম্মদ হানিফ ফ্লাইওভারের দৈর্ঘ কত?\nক. ১১.২ কি.মি\nখ. ১২.২ কি.মি\nগ. ১১.৮ কি.মি\nঘ. ১২.৮ কি.মি\nউত্তরঃ ১১.৮ কি.মি\n
+\n১৯।“সোয়াচ অব নো গ্রাউন্ড” কোথায় অবস্থিত?\nক. যমুনা নদীতে\nখ. বঙ্গোপসাগরে\nগ. মেঘনায় মোহনায়\nঘ. সন্দ্বীপ চ্যানেল\nউত্তরঃ বঙ্গোপ্সাগরে\n
+\n২০। বাংলাদেশ সংবিধানে প্রশাসনিক ট্রাইব্যুনাল বিষয়টি কোন অনুচ্ছেদে সন্নিবেশিত হয়েছে?\nক. ১১০\nখ. ১১৭\nগ. ১১৫\nঘ. ১২০\nউত্তরঃ ১১৭\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="২১।‘অলিভ টারটল’ বাংলাদেশের কোন দ্বীপে পাওয়া যায়?\nক. সেন্টমার্টিন\nখ. রাঙ্গামাটি\nগ. চর আলেকজান্ডার\nঘ. ছেড়াদ্বীপ\nউত্তরঃ সেন্টমার্টিন
+\n\n২২।প্রান্তিক হৃদ কোন জেলায় অবস্থিত?\nক. রাঙামাটি\nখ. বান্দরবান\nগ. খাগড়াছড়ি\nঘ. সিলেট\nউত্তরঃ বান্দরবান
+\n\n২৩। বিখ্যাত চিত্রকর্ম “তিন কন্যা” এর চিত্রকর কে?\nক. জয়নুল আবেদীন\nখ. এস এম সুলতান\nগ. কাম্রুল হাসান\nঘ. রফিকুন্নবী\nউত্তরঃ কামরুল হাসান\n\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="২৪।যশোর জেলায় অবস্থিত বিল-\nক. হাইল\nখ. ভবদহ\nগ. পাথরচাওলি\nঘ. আড়িয়াল\nউত্তরঃ ভবদহ
+\n\n২৫। ‘বর্ণালী’ এবং ‘শুভ্র’ কী?\nক. উন্নত জাতের ভুট্টা\nখ. উন্নত জাতের গম\nগ. উন্নত জাতের আম\nঘ. ঘুন্নত জাতের চাল\nউত্তরঃ উন্নত জাতের ভুট্টা
+\n\n২৬। জীবন্ডহুলী কি?\nক. একুটি উপন্যাসের নাম\nখ. একটি আত্মজীবনীর নাম\nগ. একটি কাব্যগ্রন্থের নাম\nঘ. একটি চলচ্চিত্রের নাম\nউত্তরঃ একটি চলচ্চিত্রের নাম\n\n"
+                /><TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:textColor="#000000"
+            android:textAllCaps="false"
+            android:textStyle="normal"
+            android:textSize="20dp"
+            android:text="২৭।ম্যানগ্রোভ কি?\nক. কেওড়া বন\nখ. উপকূলীয় বন\nগ. শালবন\nঘ. চিরহরিৎ বন\nউত্তরঃ উপকূলীয় বন
+\n\n২৮। মংডু কোন  দুটি দেশের সীমান্ত এলাকা?\nক. বাংলাদেশ-মায়ানমার\nখ. বাংলাদেশ-ভারত\nগ. মায়ানমার-চীন\nঘ. ভারত-মাইয়ানমার\nউত্তরঃ বাঙ্গলাদেশ-মায়ানমার\n"
+            /><TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:textColor="#000000"
+            android:textAllCaps="false"
+            android:textStyle="normal"
+            android:textSize="20dp"
+            android:text="\n২৯। চিরস্থায়ী বন্দোবস্ত প্রবর্তন করা হয় কত সালে?\nক. ১৭৫৭ খ্রি\nখ. ১৭৭০ খ্রি\nগ. ১৮৫৭ খ্রি\nঘ. ১৭৯৩ খ্রি\nউত্তরঃ ১৭৯৩ খ্রি
+\n\n৩০। পূর্বাশা দ্বীপের অপর নাম কি?\nক. নিঝুম দ্বীপ\nখ. সন্দ্বীপ\nগ. দক্ষিণ তালপট্টি\nঘ. কুতুবদিয়া\nউত্তরঃ দক্ষিণ তালপট্টি\n\n\n"
+            />
+
+            <Button
+                android:id="@+id/GAns"
+                android:layout_width="260dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:layout_margin="20dp"
+                android:background="@drawable/button"
+                android:text="ANSWER SHEET" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

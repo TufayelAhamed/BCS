@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".subDiscription.SubjectDescriptionScience">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="বিসিএস সাধারণ বিজ্ঞান পূর্ণাঙ্গ প্রস্তুতি"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="20dp"
+                android:text="ভৌত বিজ্ঞান "
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="পদার্থের অবস্থা\n"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:text="১। যার ভর আছে , যা কোনো স্থান দখল করে অবস্থান করে তাকে পদার্থ বলে একই পদার্থের তিন অবস্থায় রূপান্তরের কারন তাপের প্রভাব ।\n\n২। পদার্থ তিন অবস্থায় থাকতে পারে – কঠিন , তরল ও বায়বীয় । পানি ঠাণ্ডা করলে বরফে পরিণত হয় ।\n\n৩। পানি প্রকৃতিতে কঠিন , তরল ও বায়বীয় তিন অবস্থাতে পাওয়া যায় । তরল অবস্থার চেয়ে কঠিন অবস্থায় পানির ঘনত্ব কম । তাপমাত্রা বৃদ্ধির সাথে পানির বাষ্পচাপ বৃদ্ধি পায় ।\n\n
+৪। যে তাপমাত্রা কঠিন হতে তরল পদার্থের সৃষ্টি হয় , তাকে সে পদার্থের গলনাঙ্ক বলে । পানির গলনাঙ্ক ০ ডিগ্রি  সেন্টিগ্রেড ।\n\n৫। যে তাপমাত্রায় কোনো তরল পদার্থ ফুটতে থাকে, তাকে সে পদার্থের স্পটনাঙ্ক বলে । পানির স্পটনাঙ্ক ১০০ ডিগ্রি সেন্টিগ্রেড ।\n\n৬। যে সকল বস্তুর আন্তঃআণবিক শক্তি বেশি , তাদের গলনাঙ্ক ও স্পটনাঙ্ক বেশি ।\n\n৭। অনেক কঠিন পদার্থকে উওপ্ত করলে তা তরল না হয়ে সরাসরি বাষ্পে পরিণত হয় এ প্রক্রিয়াকে ঊর্ধ্বপাতন বলে ।\n\n" />
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="পরমাণুর গঠন\n"
+                android:textAllCaps="false"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="10dp"
+                android:text="১। মৌলিক পদার্থের ক্ষুদ্রতম কণা যা রাসায়নিক বিক্রিয়ায় অংশগ্রহণ করে তা হলো  পরমাণু বা এটম। একটি পারমাণবিক কণার ওজন আছে, আয়তন আছে। পরমাণু বা এটম নামকরণ করেন ডেমোক্রিটাস।\n\n২। পরমাণুর কেন্দ্র নিউক্লিয়াস; যেখানে নিউট্রন ও প্রোটন থাকে। ইলেকট্রন নিউক্লিয়াসের বাইরে থাকে এবং এর চারদিকে পরিভ্রমণ করে। পরমাণুর ঋণাত্মক আধানবিশিষ্ট কণিকা হলো ইলেকট্রন, ধনাত্মক আধানবিশিষ্ট কণিকা প্রোটন । নিউট্রন আধানহীন।\n\n
+৩। পরমাণুর সকল ধনাত্মক আধান এবং প্রায় সম্পূর্ণ ভরই নিউক্লিয়াসে কেন্দ্রীভূত।\n\n৪। পরমাণু চার্জ নিরপেক্ষ হয়, কারণ পরমাণুতে ইলেকট্রন ও প্রোটনের সংখ্যা সমান থাকে। প্রতিটি ইলেকট্রনিক কক্ষে ইলেকট্রনের সংখ্যা 2n। (n = শক্তিস্তর = 1, 2, 3, 4, ) ইত্যাদি। পরমাণুর চতুর্থ কক্ষের ইলেকট্রন সংখ্যা 2.n = 2.4= 32।\n\n" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="কার্বনের বহুমুখী ব্যবহার\n"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="5dp"
+                android:layout_marginStart="5dp"
+                android:text="১। বহুরূপী মৌল হলো কার্বন, সালফার, ফসফরাস। কার্বন হলাে অধাতু এবং বিজারক। কাঠ ও কয়লা প্রধানত কার্বন। কার্বন মৌলের রূপভেদ হলাে হীরক ও গ্রাফাইট।\n\n২। কার্বনের সবচেয়ে সহজলভ্য রূপ হলো কয়লা এবং দুর্লভ রূপ হলো হীরক। প্রকৃতিতে প্রাপ্ত সবচেয়ে কঠিন পদার্থ হীরক।\n\n৩। কার্বন, সিলিকন প্রভৃতি মৌলে ক্যাটনেশন ধর্ম দেখা যায়।\n\n৪। কার্বন ডাই অক্সাইড (CO)এসিড ধর্মী গ্যাস, নিজে জ্বলেনা অন্যকেও জ্বলতে সাহায্য করে না।\n\n৫।  হিমায়িত কঠিন কার্বন ডাই অক্সাইডকে শুষ্ক বরফ (Dry lce) বলা হয়। অগ্নি নির্বাপক সিলিন্ডারে তরল CO, ব্যবহার করা হয়।\n\n৬। সর্বাপেক্ষা কঠিন পদার্থ হলাে হীরক। এটি ছাপ পরিবাহী। এটি কার্বন মৌলের বিশেষ রূপ ।\n" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="এসিড, ক্ষার ও লবণ:\n"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="এসিড : যদি কোনো যৌগ জলীয় দ্রবণে বিয়োজিত হয়ে হাইড্রোজেন আয়ন দেয় ফলে সে লাল লিটমাসকে নীল করে তবে ঐ যৌগকে এসিড বলে। এসিডের P মান ৭ এর কম হবে |\n\nক্ষরিক : কোন ধাতুর অক্সাইড বা হইবে। যৌগ যা এসিডের সাথে বিক্রিয়া করে জল ও পানি উৎপন্ন করে তাকে ক্ষারক বলে। ক্ষয় P মান ৭ এর বেশি হয়। ক্ষারক CaO, Na2O, /n/n ক্ষার : যে সমস্ত ক্ষারক পানিতে দ্রবীভূত হাইড্রোক্সিল আয়ন দেয় তাদের ক্ষার যত যেমন- NaOH, KOH, Ca(OH), \n\nক্ষারধাতু : লিথিয়াম, সোডিয়াম, পটাসিয়াম, রুবিডিয়াম, সিজিয়াম। \n\nমৃৎক্ষার ধাতু  :  ক্যালসিয়াম, ম্যাগনেসিয়াম।\n\n লবণ :এসিডের অণুতে প্রতিস্থাপনীয় হাইড্রোজেন ক্ষারের সাথে বিক্রিয়ায় যে পদার্থ  উৎপন্ন করে তাই লবণ । খাবার লবণ হলে সোডিয়াম ক্লোরাইড পটাসিয়াম নাইট্রেট KNO। হুঁতে বা ফিটকিরি একটি লবণ ।\n\nপ্রাকৃতিক উৎস বৃষ্টি থেকে সবচেয়ে বেশি মুদ্র পানি পাওয়া যায়। মৃদু পানি সাবানের সাথে সহজে ফেনা উৎপন্ন করে।\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="আলোর প্রকৃতি\n"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="আলোর এক প্রকার শক্তি যা চোখে প্রবেশ করে দর্শনের অনুভূতি জাগায়। আলোর গতি ও বেতার তরঙ্গের গতি সমান। শব্দ, জেট বিমান বা বুলেটের চেয়ে আলোর গতি অনেক বেশি।\n\n শূন্যস্থান বা বায়ুতে ৩ x ১০৮ মিটার প্রতি সেকেন্ডে আলোর গতি ৩ লক্ষ কিলোমিটার ১ লাখ ৮৬ হাজার মাইল ।\n\nসূর্য থেকে পৃথিবীতে আলোর আসতে সময় লাগে ৫০০ সেকেন্ড বা ৮ মিনিট ২০ সেকেন্ড বা ৮.৩২ মিনিট। \n\nআলোর বর্ষ হলো দূরত্বের একক যা পৃথিবী"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="সাবান\n"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="সাবান তৈরির প্রধান কাঁচামাল তেল বা চর্বি। তেল বা চর্বি হলো এক ধরনের এন্টার।\n সাবান তৈরির প্রধান কাঁচামাল- তেল বা চর্বি।\n সাবানের রাসায়নিক নাম- সোডিয়াম স্টিয়ারেট। \nসাবান উচ্চতর ফ্যাটি এসিডের পটাসিয়াম + সোডিয়াম লবণ। এর রাসায়নিক নাম সোডিয়াম স্টিয়ারেট; সংকেত CinH3COONa. \n\nসাবান প্রস্তুতিতে উপজাত হিসেবে গ্লিসারিন। সাবান T তৈরি হয়। গ্লিসারিন অ্যালকোহল জাতীয় যৌগ। সেভিং সাবানের উপাদান কস্টিক পটাশ ও স্টিয়ারিক এসিড।\n সোডিয়াম সিলিকেট সাবান শক্ত করে করে ।"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="রক্ত ও রক্ত সঞ্চালন\n"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="একজন মানুষের শরীরের মোট ওজনের ৭% পরিমাণ রক্ত থাকে। পূর্ণবয়স্ক মানুষের দেহে কষ্টে পরিমাণ ৫, ৬ লিটার। রক্তরসে পানির পরিমাণ ৯০-৯২%। ৮-৯ ভাগ জৈব ও অজৈব পদার্থ। \nমানুষের রপ্তে pH ৭.২-৭.৪। \nএকটি রক্তের রিপোট -এর মধ্যে হিমোগ্লোবিন বেশি থাকা ভালো।\n দূষিত রক্ত ফুসফুসে বিশুদ্ধ হয়। \nরক্ত পানির তুলনায় ৪.৫ গুণ ভারি।\n মানবদেহে রক্তচাপ নির্ণয়ের যন্ত্র স্ফিগমোম্যানোমিটার।\nরক্তে অক্সিজেন পরিবহন করা হিমোগ্লোবিন কাজ।\nরক্তের গ্রুপ আবিষ্কার করেন-কার্ল ল্যান্ডস্টেইনার ।\n কেউ ২৫০ মিলি. রক্ত দান করলে শরীরের মােট রক্তের ৫% রক্ত দেয়া হয়।\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="উদ্ভিদ জগৎ\n"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="প্রিওফ্রাস্টাসকে উদ্ভিদ বিজ্ঞানের জনক বলা হয়।\nFlora বলা হয় উদ্ভিদ ফুলকে। Ausa হলো কলা উড়িদের গণ নাম (Gcncric nanc).\nগরান গাছের ছাল থেকে রং তৈরি করা হয়।\nধান গাছের ক্রোমোজাম সংখ্যা ২৪টি।\nফার্ণ উদ্ভিদের কাণ্ড রূপান্তরিত হয়ে পাতার কাজ করে।\n পাট পচাবার পদ্ধতিকে বলে রিবন রেটিং।\n সালোক সংশ্লেষণে কার্বন ডাই-অক্সাইড পানির সাথে বিক্রিয়া করে গুকোজ ও অক্সিজেন উৎপন্ন করে।\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="শক্তির উৎস ও এর প্রয়োগ নবায়নযোগ্য শক্তির উৎস\n"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="পারমাণবিক শক্তি, খনিজ উৎস যে শক্তি বারবার ব্যবহার করা যায় এবং ব্যবহারের পর নিঃশেষ হয়ে যায় না অর্থাৎ একবার ব্যবহারের পর যে শক্তি পুনরায় ব্যবহারের সুযোগ থাকে তাকে নবায়নযোগ্য শক্তি বলে। এ জ্বালানির উৎস মানুষ নিজের মতাে করে ব্যবহারোপযোগী করে নিতে পারে।\n\nনবায়নযোগ্য শক্তির উৎস অফুরন্ত, একবার ব্যবহারের পর শক্তির উৎস নিঃশেষ হয়ে যায় না।\n\nবাংলাদেশে নবায়নযোগ্য শক্তির তেমন ব্যবহার নেই। প্রযুক্তিগত অনগ্রসরতার কারণে। বাংলাদেশ এক্ষেত্রে পিছিয়ে রয়েছে।\n\nসৌরকোষের বিদ্যুৎ রাতেও ব্যবহার করা। যায় যদি এর সাথে থাকে স্টোরেজ ব্যাটারি। সৌরকোষে ব্যবহৃত হয় ক্যাডমিয়াম।\n\nঅফুরন্ত নবায়নযোগ্য সম্পদ হলো পানি।\n\nপরমাণুর নিউক্লিয়াসে নিউট্রন ও প্রোটন থাকে নিউট্রন আবিষ্কার করেন চ্যাডউইক।\n\n এটম বোমা বিস্ফোরণে ফিশন (Fission) প্রক্রিয়ায় প্রচণ্ড শক্তি উৎপাদিত হয়। প্রথম এটম বোমা ১৯৪৫ সালে ফাটানো হয়। ফিশন প্রক্রিয়ার আবিষ্কারক অটোহান।\n\n ফিউশন প্রক্রিয়ায় একাধিক পরমাণু যুক্ত হয়ে নতুন পরমাণু গঠন করে।"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="আধুনিক পদার্থবিদ্যা \n"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="আলফা  : এটি একটি হিলিয়াম নিউক্লিয়াস বা দ্বি-আয়নিত হিলিয়াম পরমাণু। আলফা রশ্মি ধনাত্মক আধানযুক্ত। এই রশ্মি চৌম্বক ও তড়িৎ ক্ষেত্র দ্বারা বিচ্যুত হয়।\n\n বিটা  : এই রশ্মি অতি উচ্চ দ্রুতি সম্পন্ন - ইলেকট্রনের প্রবাহ। বিটা রশি ঋণাত্মক আধানযুক্ত। এই রশি চৌম্বক ও তড়িৎ ক্ষেত্র দ্বারা বিক্ষিপ্ত হয়।\n\nগামা Y : গামা রশ্মি অত্যন্ত ক্ষুদ্র তরঙ্গ দৈর্ঘ্যের তাড়িত চৌম্বক বিকিরণ। এটি| জীবজগতের জন্যে অত্যন্ত ক্ষতিকারক। তবে টিউমার, ক্যান্সার প্রভৃতি রোগের চিকিত্সায় এ রশ্মি ব্যবহার করা হয়।\n\n  টিউমার, ক্যান্সার প্রভৃতি রোগের চিকিৎসায় ব্যবহৃত গামা বিকিরণের উৎস হলো আইসোটোপ।\n\nগামা রশ্মি হলো তড়িৎ চুম্বকীয় রশ্মি। এটি চৌম্বক ক্ষেত্র দ্বারা বিক্ষিপ্ত হয় না।\n\nরেডিওতে শব্দকে তাড়িত চৌম্বক তরঙ্গ হিসেবে প্রেরণ করা হয়।\n\n
+টেলিভিশন আবিষ্কার করেন জন এল বেয়ার্ড। টেলিভিশনে প্রতি সেকেন্ডে ৩০ টি চিত্র প্রেরণ করা হয়।\n\nটেলিভিশনে রঙিন ছবি উৎপাদনের জন্য ৩টি মৌলিক রং ব্যবহার করা হয় - লাল, সবুজ ও আসমানী।\n\nমোবাইল ফোন থেকে ডায়াল করলে সৃষ্ট বেতার তরঙ্গ প্রেরক গ্রাহক টাওয়ারে যায়।\n\nটেলিভিশনে ছবি প্রেরণের সময় ছবিকে যে ক্ষুদ্র ক্ষুদ্র অংশে বিভক্ত করা হয় তাকে বলা হয় স্ক্যানিং।\n\nরিমোট সেন্সিং বা দূর অনুধাবন বলতে বিশেষভাবে বুঝায় উপগ্রহের সাহায্যে দূর থেকে ভূমণ্ডলের অবলোকন।\n\nডিজিটাল টেলিফোনের প্রধান বৈশিষ্ট্য ডিজিটাল সিগন্যালে বার্তা প্রেরণ ।\n\nটেলিফোন লাইনের মধ্য দিয়ে প্রবাহিত হয় তড়িৎ শক্তি। টেলেক্স-এর মাধ্যমে বার্তা পাঠানো হয়।\n
+"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

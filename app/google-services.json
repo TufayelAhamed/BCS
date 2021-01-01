@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855852395635",
+    "firebase_url": "https://bcspreparation-bf444.firebaseio.com",
+    "project_id": "bcspreparation-bf444",
+    "storage_bucket": "bcspreparation-bf444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855852395635:android:b592533f2ca919b9780e06",
+        "android_client_info": {
+          "package_name": "com.example.bcspreparations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855852395635-l51m6nhiknq2qvd958bktempllqpgofg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsFLhnXDItNZDj6X30PRJxEZHoG2UWf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855852395635-l51m6nhiknq2qvd958bktempllqpgofg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

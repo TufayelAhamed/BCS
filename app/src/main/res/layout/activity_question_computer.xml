@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".question.QuestionComputer">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="কম্পিউটার প্রশ্ন:"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="১। প্রোগ্রাম থেকে কপি করা ডাটা কোথায় থাকে?\nক. RAM\nখ. Terminal\nগ. Clipboard\nঘ. Hard Disk\n\n২।The term PC means-\nক. Private Computer\nখ. Prime Computer\nগ. Personal Computer\nঘ. Professional Computer\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৩। ইন্টারনেট চালুর বছর?\nক. ১৯৫৯\nখ. ১৯৬৫\nগ. ১৯৬৯\nঘ. ১৯৮১\n\n৪। মডেমের মধ্যে যা থাকে তা হলো-\nক. একটি মডুলেটর\nখ. একটি মডুলেটর ও একটি ডিমডুলেটর\nগ. একটি কোডে\nঘ. একটি এনকোডার"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n৫। কম্পিউটার ভাইরাস কি?\nক. একটি ক্ষতিকারক জীবাণু\nখ. একটি ক্ষতিকারক সার্কিট\nগ. একটি খতিকারক চৌম্বক ফ্লাস্ক\nঘ. একটি ক্ষতিকারক প্রোগ্রাম\n\n৬। কোনটি তারবিহীন দ্রুতগতির ইন্টারনেট সংযগের জন্য উপযোগী?\nক. ওয়াইম্যাক্স\nখ. সি-মস\nগ. ব্রডব্যান্ড\nঘ. ব্লু-ট্রুথ\n\n৭। অপটিক্যাল ফাইবারে আলোর কোন ঘটনাটি ঘটে?\nক. প্রতিসরণ\nখ. বিচ্ছুরণ\nগ. অপবর্তন\nঘ. অভ্যন্তরীণ প্রতিফলন"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n৮। কোনটি অর্ধপরিবাহী নয়?\nক. লোহা\nখ. সিলিকন\nগ. জার্মেনিয়াম\nঘ. গ্যালিয়াম\n\n৯। কম্পিউটার থেকে কম্পিউটারে তথ্য আদান প্রদানের প্রযুক্তিকে বলা হয়-\nক. ই-মেইল\nখ. ইন্টারনেট\nগ. ইন্টারকম\nঘ. টেলিগ্রাম\n\n১০। কম্পিউটারের স্থায়ী স্মৃতিশক্তিকে কি বলে?\nক. RAM\nখ. ROM\nগ. Hardware\nঘ. Software\n\n১১। কম্পিউটারে কি আবিষ্কার করেন?\nক. উইলিয়াম অটরেড\nখ. ব্লেইসি প্যাসকেল\nগ. হাওয়ার্ড আইকিন\nঘ. এবাকাস"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১২। The brain of any computer system is\nA. ALU\nB. Memory\nC. CPU\nD. Control unit\n\n১৩। CD-ROM is a\nক. Semiconductor memory\nখ. Memory register\nগ. Magnetic memory\nঘ. None of these\n\n১৪। MICR stands for\nক. Magnetic Ink Character Reader\nখ. Magnetic Ink Code Reader\nগ. Magnetic Ink cases Reader\nঘ. None of them"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="১৫।নিচের কোনটি আউটপুট ডিভাইস?\nক. মাইক্রোফোন\nখ. সিডি ড্রাইভ\nগ. মনিটর\nঘ. জয়স্টিক\n\n১৬। কম্পিউটারের সকল প্রোগ্রাম ও ডাটা সংরক্ষণ করে-\nক. এ এল ইউ\nখ. মেমোরি\nগ. ক্যাশ মেমোরি\nঘ. কন্ট্রোল ডিভাইস\n\n১৭। একটি প্রিন্টারের আউটপুট এর মান পরিমাপ কর হয়-\nক. Dot per second\nখ. Dot per inch\nগ. Dot matrix per minute\nঘ. Dot printed per sq. inch"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n১৮। নিম্নের কোনটি ইনপুট ডিভাইস?\nক. CRT Monitor\nখ. Speake\nগ. Printer\nঘ. Key-board\n\n১৯। সাবমেরিনক্যাবল প্রযুক্তিতে নিম্নের কোন ধরনের মাধ্যম ব্যবহৃত হয়?\nক. VAST\nখ. শব্দ তরঙ্গ\nগ. চুম্বক তরঙ্গ\nঘ. অপটিক্যাল ফাইবার\n\n২০। VSAT বলতে কি বুঝায়?\nক. Very Swift Automatic Terminal\nখ. Very Standard Automatic Test\nগ. Very Small Aparture Terminal\nঘ. Very Static Aligned Terminal\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n২১। LAN বলতে কি বোঝায়?\nক. Local Area Network\nখ. Label Area Network\nগ. Link Area Network\nঘ. Long Area Network\n\n২২। Trojan Horse হচ্ছে-\nক. একটি অপারেটিং সিস্টেম\nখ. একটি ভাইরাস\nগ. একটি ওয়ার্ড ফাইলঘ. একটি প্রিন্টিং মেশিন\n\n২৩। Microsoft Excel একটি- \nক. ডাটাবেজ প্রোগ্রাম\nখ. ভাইরাস\nগ. মোডেম\nঘ. জে-ড্রাইভ প্রোগ্রাম"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="\n২৪। নিম্নের কোন প্রোগ্রামটি কম্পিউটারে সি-ড্রাইভে থাকে?\nক. মাই ডকুমেন্ট\nখ. উইন্ডোজ\nগ. পেন ড্রাইভ\nঘ. ফ্লপি ডিস্ক\n\n২৫। নিম্নের কোন সংখ্যা পদ্ধতিটি কম্পিউটারে ডাটা সংরক্ষণে ব্যবহৃত হয়?\nক. Decimal\nখ. Binary\nগ. Octal\nঘ. Hexadecimal\n\n"
+                />
+
+            <Button
+                android:id="@+id/CAns"
+                android:layout_width="260dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:layout_margin="20dp"
+                android:background="@drawable/button"
+                android:text="ANSWER SHEET" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

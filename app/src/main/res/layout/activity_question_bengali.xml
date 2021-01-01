@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".question.QuestionBengali">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="প্রশ্ন:"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="১। বাংলা ভাষায় ব্যবহ্রত মৌলিক স্বরধনি কয়টি?\nক. ৭ টি\nখ. ৮ টি\nগ. ৬টি\nঘ. ১১টি"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="২। গিন্নি কোন শ্রেণির শব্দ?\nক.দেশি\nখ.বিদেশি\nগ.তদ্ভব\nঘ.অর্ধ-তৎসম"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৩।বাবা কোন ভাষা থেকে আগত শব্দ?\nক. সংস্কৃত\nখ. হিন্দি\nগ. অহমিয়া\nঘ.তুর্কি"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৪।“পুষ্পসৌরভ” কোন সমাসের উদাহরণ? \nক. তৎপুরুষ\nখ. কর্মধারয়\nগ. অব্যয়ীভাব\nঘ.   বহুব্রীহি"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৫।বাংলা কৃত-প্রত্যয় সাধিত শব্দ কোনটি? \nক.চামার\nখ. ধারালো\nগ. মোড়ক\nঘ.পোষ্টায় "
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৬।চন্দ্রাবতী কী?\nক.নাটক\nখ. কাব্য\nগ.পালাগান\nঘ.পদাবলী\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৭। “বিদ্যাপতি” কোন রাজসভার কবি ছিলেন?\nক.মিথিলা\nখ.রোসাংগ\nগ.আলিনগর\nঘ.বিক্রমপুর"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৮।“মতিচূর” কোন ধরনের রচনা?\nক.প্রবন্ধ\nখ.উপন্যাস\nগ. নাটক\nঘ.কাব্য"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="৯। মুক্তিযুদ্ধের পটভূমিতে রচিত কাব্যগ্রন্থ কোনটি?\nক. নেকড়ে অরণ্য\nখ.বন্দী শিবির থেকে\nগ.নিষিদ্ধ লোবান\nঘ.প্রিয়যোদ্ধা প্রিয়তম"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="১০। কতসালে মেঘনাদবধ কাব্য প্রথম প্রকাশিত হয়?\nক. ১৮৬০\nখ. ১৮৬১\nগ. ১৮৬৫\nঘ. ১৮৫৯\n"
+                />
+            <Button
+                android:id="@+id/ABangla"
+                android:layout_width="260dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:layout_marginTop="35dp"
+                android:textColor="#ffffff"
+                android:layout_margin="20dp"
+                android:background="@drawable/button"
+                android:text="ANSWER SHEET" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".subDiscription.SubjectDescriptionEnglish">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Subject based description:"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="@string/subjectdescriptionenglish1"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:text="Preposition:"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="@string/subjectdescriptionenglish2"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="Synonym:"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="@string/subjectdescriptionenglish3"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="Antonym:"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="@string/subjectdescriptionenglish4"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="English Literature:"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="@string/subjectdescriptionenglish5"
+                android:layout_marginEnd="5dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:text="Literary Works -Author-Important Characters\n1. The Tempest (Comedy)Shakespeare\n
+-Prospero, Miranda, Ferdinand, Caliban, Ariel\n
+2. Measure for Measure (Problem Play)Shakespeare\n
+-Isabella, Juliet, Lucio, Angelo, Claudio\n
+3. Macbeth (Tragedy)Shakespeare\n
+-Macbeth, Lady Macbeth (most powerful lady character of Shakespeare), Duncan, Banquo, the Three Witches\n
+4. Merchant of Venice (Comedy)Shakespeare\n
+-Shylock, Antonio, Bassanio, Portia, Jessica\n
+5. King Lear (Tragedy)Shakespeare\n
+-King Lear, Cordelia, Goneril, Regan\n
+6. Hamlet (Tragedy)Shakespeare\n
+-Hamlet, Ophelia, Claudius, Gertrude\n
+7. Othello (Tragedy)Shakespeare\n
+-Othello, Desdemona, Iago (Shakespeare’s most infamous villain)\n
+8. Twelfth Night (Comedy)Shakespeare\n
+-Viola, Duke Orsino, Malvolio, Olivia, Sebastian\n
+9. As You Like It (Comedy)Shakespeare\n
+-Rosalind, Orlando, Jaques, Celia, Duke Senior\n
+10. Doctor Faustus (Tragedy)Christopher Marlowe\n
+-Faustus, Mephistopheles\n
+11. Paradise Lost (Epic)John Milton\n
+-Adam, Eve, Satan (most infamous villain of all times)\n
+12. Volpone (Comedy)Ben Jonson\n
+-Volpone, Mosca, Celia\n
+13. Tess of the D’Urbervilles (Novel)Thomas Hardy\n
+-Tess Durbeyfield\n
+14. Robinson Crusoe (Novel)Daniel Defoe\n
+-Robinson Crusoe, Friday, Xury\n
+15. Gulliver’s Travels (Novel-Satire)Jonathan Swift\n
+-Gulliver, Blefuscudian, Lilliputians, Yahoos\n
+16. Death of a Salesman (Play-tragedy)Arthur Miller\n
+-Willy Loman, Linda Loman, Happy Loman\n
+17. Oliver Twist (Novel)Charles Dickens\n
+-Oliver Twist, Fagin, Bill Sikes\n
+18. Great Expectations (Novel)Charles Dickens\n
+-Pip (Philip Pirrip), Miss Havisham, Estella, Joe Gargery\n
+19. David Copperfield (Novel)Charles Dickens\n
+-David Copperfield, Agnes Wickfield, James Steerforth\n
+20. Anna Karenina (Novel) Leo Tolstoy\n
+-Anna Karenina, Alexis Karenin\n
+21. Jane Eyre (Novel) Charlotte Bronte\n
+-Jane Eyre, Edward Rochester\n
+22. The Rime of the Ancient Mariner (Poem) S. T. Coleridge\n
+-The Mariner, the Wedding Guest, Albatross,\n
+23.  ‘To be or not to be‘ is the beginning of a famous soliloquy from – Hamlet.\n
+24. The father of English Poem – Geoffrey Chaucer\n
+25.  Francis Bacon is an – Essayist\n
+26. ‘Renaissance’ means – the revival of learning\n
+27.  Elizabethan tragedy is centered on – Revenge\n
+28.  Gulliver's Travels has been written by - Jonathan Swift\n
+29.  The drama 'Hamlet' is written by- Shakespeare\n
+30. 'Faerie Queene' is- an epic by Edmund Spenser\n
+31.  The Merchant of Venice written by Shakespeare is- a drama\n
+32.  Who wrote The Tempest ? - William Shakespeare\n
+33.  A thing of beauty is a joy forever' was stated by- John Keats\n
+34. 'Paradise Lost' was written by- Milton\n
+35.  Chaucer is the representative poet of - 14th century\n
+36.  The music in my heart I bore Long after it was heard no more.' These lines are from the poem- Ode to a Nightingale by John Keats.\n
+37.  Macbeth' is - a play by Shakespeare.\n
+38.  'Vanity Fair' is a- novel.\n"
+                android:layout_marginEnd="5dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

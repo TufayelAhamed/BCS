@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".answer.CommonsensAnswer">
+    <TextView
+        android:layout_margin="20dp"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:text="উত্তরঃ"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp">
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:textStyle="normal"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="1. উত্তরঃ বীরুত \n2. উত্তরঃ ৭৩%\n3. উত্তরঃ লোহা\n4. উত্তরঃ ফুসফুস\n5. উত্তরঃ নাইক্রোম তার\n6. উত্তরঃ হিমায়িত কার্বন ডাই অক্সাইডকে\n7. উত্তরঃ ফসফরাস\n8. উত্তরঃ স্যালিক এসিড\n9. উত্তরঃ লাল আলোতে\n10. উত্তরঃ বেশি হয়\n11. উত্তরঃ ৩৩\n12. উত্তরঃ এডিস\n13. উত্তরঃ ইস্পাত\n14. উত্তরঃ মৎস্য চাষ\n15. উত্তরঃ ট্যাকোমিটার"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:textStyle="normal"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="16. উত্তরঃ একয় হয় \n17. উত্তরঃ দস্তা\n18. উত্তরঃ এডিসন\n19. উত্তরঃ ৬টি\n20. উত্তরঃ ১৮ ইঞ্চি\n21.উত্তরঃ কিলোওয়াট ঘন্টায়\n22. উত্তরঃ ক্যালসিয়াম কার্বনেট\n23. উত্তরঃ  নাইট্রোজেনের\n24. উত্তরঃ ভিটামিন – বি কমপ্লেক্স\n25. উত্তরঃ অগ্ন্যাশয় হতে"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:textStyle="normal"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="26. উত্তরঃ বীরুত \n27. উত্তরঃ ৭৩%\n28. উত্তরঃ লোহা\n29. উত্তরঃ ফুসফুস\n30. উত্তরঃ নাইক্রোম তার\n11. উত্তরঃ হিমায়িত কার্বন ডাই অক্সাইডকে\n32. উত্তরঃ ফসফরাস\n33. উত্তরঃ স্যালিক এসিড\n34. উত্তরঃ লাল আলোতে\n35. উত্তরঃ বেশি হয়"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

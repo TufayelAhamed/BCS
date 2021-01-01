@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".syllabuses.ScienceSyllabus">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সিলেবাসঃ"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="সাধারণ বিজ্ঞান\nপূর্ণমানঃ১৫"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="০১। সাধারণ বিজ্ঞানের প্রশ্নগুলো দৈনন্দিন জীবনে ব্যবহৃত বিজ্ঞানের অভিজ্ঞতার আলোকে অর্জিত সাধারণ উপলব্ধি থেকে করা হবে। এক্ষেত্রে প্রার্থীকে বিশেষভাবে বিজ্ঞানের উপর পড়াশুনা না করা থাকলেও চলবে।\n\n
+০২। প্রশ্নের সেট এমনভাবে করা হবে যাতে দেশে ও বিদেশে আধুনিক গুরুত্বপুর্ন বৈজ্ঞানিক আবিষ্কার ও বিখ্যাত বিজ্ঞানীদের অবদান সম্পর্কযুক্ত থাকে।"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="মান বণ্টন\nভৌত বিজ্ঞান- ৫"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="পদার্থের অবস্থা, এটমের গঠন, কার্বনের বহুমুখী ব্যবহার, এসিড, ক্ষার, লবণ, পদার্থের ক্ষয়, সাবানের কাজ, ভৌত রাশি এবং এর পরিমাপ, ভৌত বিজ্ঞানের উন্নয়ন, চৌম্বকত্ব, তরঙ্গ ও শব্দ,
+তাপ ও তাপগতি বিদ্যা, আলোর প্রকৃতি, স্থির এবং চল তড়িৎ, ইলেক্ট্রনিকস, আধুনিক পদার্থবিজ্ঞান, শক্তির উৎস এবং এর প্রয়োগ, নবায়নযোগ্য শক্তির উৎস, পারমাণবিক শক্তি, খনিজ উৎস, শক্তির রুপান্তর, আলোক যন্ত্রপাতি,
+মৌলিক কণা, ধাতব পদার্থ এবং তাদের যৌগ সমূহ, অধাতব পদার্থ, জারণ-বিজারণ, তড়িৎ কোষ, অজৈব যৌগ, জৈব  যৌগ, তড়িৎ চৌম্বক, ট্রান্সফরমার, এক্সরে, তেজস্ক্রিয়তা ইত্যাদি।"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="জীব বিজ্ঞান- ৫"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="পদার্থের জীববিজ্ঞান-বিষয়ক ধর্ম, টিস্যু, জেনেটিক্স, জীববৈচিত্র্য, এনিম্যাল ডাইভারসিটি, প্লান্ট ডাইভারসিটি,
+এনিম্যাল টিস্যু, অর্গান এবং অর্গান সিস্টেম,সালোক সংশ্লেষণ , ভাইরাস, ব্যাকটেরিয়া, জুলোজিক্যাল নমেনক্লেচার, বোটানিক্যাল নোমেনক্লেচার, প্রাণিজগৎ, উদ্ভিদ, ফুল, ফল, রক্ত ও রক্ত সঞ্চালন,
+রক্তচাপ, হৃদপিণ্ড এবং হৃদরোগ, স্নায়ু এবং স্নায়ুরোগ, খাদ্য ও পুষ্টি, ভিটামিন, মাইক্রোবায়োলজি, প্লান্ট নিউট্রেশন, পরাগায়ণ ইত্যাদি।"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="আধুনিক বিজ্ঞান- ৫"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="পৃথিবী সৃষ্টির ইতিহাস, কসমিক রে, ব্লাক হোল, হিগের কণা, বারিমন্ডল, টাইড, বায়ুমন্ডল, টেকটোনিক প্লেট, সাইক্লোন, সুনামি, বিবর্তন, সামুদ্রিক জীবন,
+মানবদেহ, রোগের কারণ ও প্রতিকার, সংক্রামক রোগ, রোগ জীবাণুর জীবনধারণ, মা ও শিশু স্বাস্থ্য, ইম্যুনাইজেশন এবং ভ্যাকসিনেশন, এইচ আই ভি, এইডস, টিবি, পোলিও, জোয়ার-ভাটা,
+এপিকালচার, সেরিকালচার, পিসিকালচার, হর্টীকালচার, ডায়োড, টানজিস্টর, আইসি, আপেক্ষিক তত্ত্ব, ফোটন কণা ইত্যাদি।
+\n\nসর্বমোট= ১৫\n\n\n\n"
+                android:textSize="25dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="40dp"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

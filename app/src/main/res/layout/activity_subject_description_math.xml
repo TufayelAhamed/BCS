@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".subDiscription.SubjectDescriptionMath">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="বিসিএস গাণিতিক যুক্তি পূর্ণাঙ্গ প্রস্তুতি"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="20dp"
+                android:text="বাতব সংখ্যা"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginStart="10dp"
+                android:textColor="#000000"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="অংক(ডিগিত)"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:text="(মানুষ হিসাব নিকাশ ও গণনা কার্যের জন্য যে সকল প্রতীক বা চিহ্ন ব্যবহার করে সেগুলোই অংক। গণিতে ০ থেকে ৯ পর্যন্ত ১০টি অংক রয়েছে\n" />
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="অংক"
+                android:textAllCaps="false"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="10dp"
+                android:text="i. সার্থক অংক (১,২,৩,৪,৫,৬,৭,৮,৯,)\nii. সহকারী অংক/সংখ্যার অভাবজ্ঞাপক অঙ্ক (০)" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="সংখ্যা"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+                android:textColor="#000000"
+                android:layout_marginTop="5dp"
+                android:layout_marginStart="5dp"
+                android:text="অংক দ্বারা পরিমাণ বুঝালে সংখ্যা হয়। এক বা একাধিক অংক মিলে সংখ্যা তৈরি হয়। ৩১, ৪৭, ৫২, ১৩২ এ অংকগুলো সংখ্যা হবে যখন এদের সাথে টি, টা, খানা প্রভৃতি যুক্ত হবে। বাস্তবে ৩১, ৪৭, ৫২, ১৩২ বলতে কোন জিনিস পৃথিবীতে নেই। বরং কোন জিনিসকে বুঝাতে এগুলো ব্যবহৃত হয়। একক অংক হিসেবে পরিমাণজ্ঞাপক হলে সার্থক অংকগুলােকে সংখ্যা বলা যায়। যেমন- ৩ মিটার, ৪কেজি ইত্যাদি।" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="মৌলিক সংখ্যা :"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="মৌলিক সংখ্যা : যে সংখ্যা ১ এবং ঐ সংখ্যা ব্যতীত অন্য কোন সংখ্যা দ্বারা নিঃশেষে বিভাজ্য হয় না তাকে মৌলিক সংখ্যা বলে। যেমন - ২, ৩, ৫, ৭ ইত্যাদি। একটি মৌলিক সংখ্যার ১ এবং সেই সংখ্যা ব্যতীত অন্য কোন উৎপাদক নেই।\n১। মৌলিক সংখ্যা নয়।\n ২। হলো ক্ষুদ্রতম এবং একমাত্র জোড় মৌলিক সংখ্যা।"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="সহমৌলিক সংখ্যা :"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="দুটি সংখ্যার মধ্যে ১ ব্যতীত অন্য কোন সাধারণ উৎপাদক না থাকলে তারা সহমৌলিক। যেমন ৩৫ ও ২৪ পরপর সহমৌলিক। "/>
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="10dp"
+            android:text="মৌলিক সংখ্যা নির্ণয় :"
+            />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="i. কোন মৌলিক সংখ্যা নির্ণয়ের জন্য ঐ সংখ্যার কাছাকাছি পূর্ণবর্গসংখ্যা বিবেচনা করি।\nii. পূর্ণবর্গ সংখ্যাটির বর্গমূলের নিচে যতগুলো মৌলিক সংখ্যা আছে সেগুলি দ্বারা উক্ত সংখ্যাটি নিঃশেষে বিভাজ্য না হলে সংখ্যাটি হবে মৌলিক সংখ্যা। \nযেমন : ৫৩ সংখ্যা মৌলিক কিনা বোঝার জন্য কাছাকাছি বর্গসংখ্যা ৪৯ বিবেচনা করি। ৪৯ সংখ্যার বর্গমূল ৭, যার নিচের মৌলিক সংখ্যা ৫,৩,২।। সংখ্যাগুলো দ্বারা, ৫৩ সংখ্যাটি বিভাজ্য নয়। সুতরাং, ৫ মৌলিক সংখ্যা।"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="ল. সা. গু ও গ. সা. গু "
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="সূত্র ১। দুইটি সংখ্যার অনুপাত এবং তাদের ল.সা.গু দেয়া থাকলে- \nবড়সংখ্যা = সংখ্যাদ্বয়ের ল.সা.গু/অনুপাতের ছোট সংখ্যা \nছোটসংখ্যা =সংখ্যাদ্বয়ের ল.সা.গু./অনুপাতের বড় সংখ্যা\nদুইটি সংখ্যার অনুপাত ৫ঃ৬। তাদের ল, সা, গু ৩৬০ হলে, সংখ্যা দুইটি কী কী? - উত্তর : ৬০, ৭২ "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="সূত্র :২ \nদুইটি সংখ্যার অনুপাত এবং গ. সা. ও দেওয়া থাকলে-\nছােট সংখ্যা = অনুপাতের ছােট সংখ্যা x গ, সা, গু \nবড় সংখ্যা = অনুপাতের বড় সংখ্যা x গ, সা, গু\nদুইটি সংখ্যার অনুপাত এবং গ.সা. ও দেওয়া থাকলে -\nল, সা.গু = দুইটি সংখ্যার অনুপাতের গুণফল x গ. সা.।\n→ দুইটি সংখ্যার অনুপাত ৫ ও ৬ এবং তাদের গ.সা.গু ৪, ৫ সংখ্যাটি কত? উত্তর : ২০\n→ দুইটি সংখ্যার অনুপাত ৫ ও ৭ এবং তাদের গ.সা.গু ৬ হ
+সংখ্যা দুইটির ল.সা.গু কত? উত্তর : ২১০\n→ দুইটি সংখ্যার অনুপাত ৫ ৬ এবং তাদের গ.সা.গু ৮ হ
+তাদের ল, সা, গু কত? উত্তর : ২৪০"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="সূত্র :৩। দুটি সংখ্যার গুণফল এবং তাদের ল. সা. গু কিংবা গ, সা, দেয়া থাকলে -\nগ.সা.গু = সংখ্যাদ্বয়ের গুণফল / সংখ্যাদ্বয়ের ল.সা.গু  \n ল.সা.গু = সংখ্যাদ্বয়ের গুণফল / সংখ্যাদ্বয়ের গ.সা.গু\n → দুটি সংখ্যার গুণফল১৫৩৬। সংখ্যা দুটোর ল.সা.গু. ৯৬ হয় গ.সা.গু কত? উত্তর : ১৬/n→ দুটি সংখ্যার গুণফল ৪৮০, গ.সা.গু ১২। সংখ্যাদ্বয়ের ল.সা, কত? উত্তর : ৪০"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="সূত্র ৪.  দুইটি সংখ্যার ল. সা. গু ও গ. সা. গু এবং একটি সংখ্যা দেওয়া থাকত অপর সংখ্যার = ল. সা. গু x গ. সা. গু /  একটি সংখ্যা  \n→ দুটি সংখ্যার গ, সা, গু ১৬ এবং ল. সা. গু ১৯২। একটি সংখ্যা ৪৮, অপরটি কত? উত্তর : ৬৪\n→ দুটি সংখ্যার ল, সা, ও, ও গ, সা, ৩. যথাক্রমে ২৮৮ ও ১২। একটি সংখ্যা ৩৬ হলে, অপরটি কত? উত্তর : ৯৬"
+                />
+
+             <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="শতকরা"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:text="সূত্র ১।  দ্রব্যের মূল্য বৃদ্ধি পাওয়ার ব্যাবহার কমানোর ক্ষেত্রে -\nব্যাবহার হ্রাসের হার = ১০০ x মূল্য বৃদ্ধির হার / ১০০ +  মূল্যবৃদ্ধির হার\nদ্রব্যের মূল্য হ্রাস পাওয়ার ব্যাবহার কমানোর ক্ষেত্রে -\nব্যাবহার বৃদ্ধির হার = ১০০ x মূল্য হ্রাসের হার / ১০০ -  মূল্য হ্রাসের হার\n→ চিনির মূল্য ২০% বৃদ্ধি পাওয়াতে কোন এক পরিবার চিনি খাওয়া কেমন কমালে চিনি  বাবদ ব্যয় বৃদ্ধি পাবে না ?\ nউত্তরঃ ১৬.৬৭%\n→কাপড়ের মূল্য ২০% কমে গেলে, কোন ব্যাক্তি খরচ বৃদ্ধি না করেও কাপড় ব্যাবহার শতকরা ক্ত বৃদ্ধি করতে পারে ?\nউত্তরঃ২৫%"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text=""
+                />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

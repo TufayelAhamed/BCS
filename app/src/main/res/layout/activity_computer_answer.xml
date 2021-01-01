@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".answer.ComputerAnswer">
+    <TextView
+        android:layout_margin="20dp"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:text="উত্তরঃ"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp">
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:textStyle="normal"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="1. উত্তরঃ Clipbard \n2. উত্তরঃ Personal Computer\n3. উত্তরঃ ১৯৬৯\n4. উত্তরঃ একটি মডুলেটর ও একটি ডিমডুলেটর\n5. উত্তরঃ একটি ক্ষতকারক প্রোগ্রাম\n6. উত্তরঃ ওয়াইম্যাক্স\n7. উত্তরঃ অভ্যন্তরীণ প্রতিফলন\n8. উত্তরঃ লোহা\n9. উত্তরঃ ইন্টারনেট\n10. উত্তরঃ ROM\n11. উত্তরঃ হাওয়ার্ড এইকিন\n12. উত্তরঃ CPU\n13. উত্তরঃ Magnetic memor\n14. উত্তরঃ Magnetic Ink Character Reader\n15. উত্তরঃ মনিটর"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:textStyle="normal"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="16. উত্তরঃ মেমোরি\n17. উত্তরঃ Dot per inch\n18. উত্তরঃ Key-board\n19. উত্তরঃ অপটিক্যাল ফাইবার\n20. উত্তরঃ Very Small Aparture Terminal\n21. উত্তরঃ Local Area Network\n22. উত্তরঃ একটি ভাইরাস\n23. উত্তরঃ ডাটাবেজ প্রোগ্রাম\n24. উত্তরঃ মাই ডকুমেন্ট\n25. উত্তরঃ Binary\n"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:textStyle="normal"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="26. উত্তরঃ বীরুত \n27. উত্তরঃ ৭৩%\n28. উত্তরঃ লোহা\n29. উত্তরঃ ফুসফুস\n30. উত্তরঃ নাইক্রোম তার\n11. উত্তরঃ হিমায়িত কার্বন ডাই অক্সাইডকে\n32. উত্তরঃ ফসফরাস\n33. উত্তরঃ স্যালিক এসিড\n34. উত্তরঃ লাল আলোতে\n35. উত্তরঃ বেশি হয়"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

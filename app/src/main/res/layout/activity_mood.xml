@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mood">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/userMoodBTN"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:text="User Mood"
+            android:textSize="20sp"
+            android:layout_margin="20dp"
+            android:background="@drawable/button"
+            android:padding="3dp"
+            android:textColor="@color/snow"
+            android:onClick="UserMoodBTN"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:text="Admin Mood"
+            android:textSize="20sp"
+            android:background="@drawable/button"
+            android:textColor="@color/snow"
+            android:layout_margin="5dp"
+            android:padding="3dp"
+            android:onClick="AdminMoodBTN"/>
+    </LinearLayout>
+
+</RelativeLayout>
