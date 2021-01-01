@@ -20,7 +20,6 @@ public class GetPush {
         this.fourthOption = fourthOption;
         this.answer = answer;
     }
-
     public String getQuestion() {
         return question;
     }
