@@ -27,6 +27,7 @@ public class BanglaEdit extends AppCompatActivity {
     private RecyclerView.LayoutManager layoutManager;
     private EnglishEditAdapter adapter;
     private Context context;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
