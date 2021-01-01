@@ -72,5 +72,4 @@ public class GetPush {
     public static void addToList(GetPush getPush){
         gp.add(getPush);
     }
-
 }
